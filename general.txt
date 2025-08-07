@@ -1,0 +1,1723 @@
+## Databases begin
+
+Title  ABA/BNA Lawyers' Manual on Professional Conduct
+URL  http://lawyersmanual.bna.com/mopw2
+Host lawyersmanual.bna.com
+
+Title  Accounting Policy & Practice Report
+URL  http://news.bna.com/apln
+Host news.bna.com
+
+Title  Accounting Policy & Practice Series
+URL  http://btac/gohp.adp?tab=acct
+
+# Updated per ralight 2021-08-12
+Title Alexander Street Press (updated 20210805)
+URL http://search.alexanderstreet.com
+Host https://search.alexanderstreet.com
+DJ alexanderstreet.com
+Host cdn.alexanderstreet.com
+HJ https://tcr3.alexanderstreet.com
+HJ https://tcr4.alexanderstreet.com
+NeverProxy https://dywyzs4z4lwvw.cloudfront.net
+NeverProxy d3crmev290s45i.cloudfront.net
+NeverProxy media.proquest.com
+Find "http:\/\/
+Replace "http://
+Find "https:\/\/
+Replace "https://
+Find domain="*.alexanderstreet.com"
+Replace domain="*"
+
+# Added per ralight 2021-11-23
+Title Alexander Street Video (updated 20201117)
+URL https://video.alexanderstreet.com
+DJ video.alexanderstreet.com
+NeverProxy https://dq8wtqudsgu83.cloudfront.net
+NeverProxy d3crmev290s45i.cloudfront.net
+NeverProxy media.proquest.com
+
+Title Alexander Street
+URL http://alexanderstreet.com/
+HJ www.alexanderstreet.com
+HJ https://alexanderstreet.com
+HJ search.alexanderstreet.com
+HJ https://search.alexanderstreet.com
+DJ alexanderstreet.com
+HJ https://lit.alexanderstreet.com
+HJ asp6new.alexanderstreet.com
+HJ https://asp6new.alexanderstreet.com
+HJ aadr.alexanderstreet.com
+HJ aamr.alexanderstreet.com
+HJ adli.alexanderstreet.com
+HJ afso.alexanderstreet.com
+HJ ahiv.alexanderstreet.com
+HJ amso.alexanderstreet.com
+HJ ant1.alexanderstreet.com
+HJ anth.alexanderstreet.com
+HJ anto.alexanderstreet.com
+HJ area.alexanderstreet.com
+HJ artv.alexanderstreet.com
+HJ atho.alexanderstreet.com
+HJ ativ.alexanderstreet.com
+HJ bakr.alexanderstreet.com
+HJ bart.alexanderstreet.com
+HJ bld2.alexanderstreet.com
+HJ bldr.alexanderstreet.com
+HJ blfi.alexanderstreet.com
+HJ blst.alexanderstreet.com
+HJ blsv.alexanderstreet.com
+HJ bltc.alexanderstreet.com
+HJ blww.alexanderstreet.com
+HJ busv.alexanderstreet.com
+HJ bwl2.alexanderstreet.com
+HJ bwld.alexanderstreet.com
+HJ cali.alexanderstreet.com
+HJ cdn.alexanderstreet.com
+HJ cjiv.alexanderstreet.com
+HJ clmu.alexanderstreet.com
+HJ clmv.alexanderstreet.com
+HJ comx.alexanderstreet.com
+HJ cpho.alexanderstreet.com
+HJ ctiv.alexanderstreet.com
+HJ curv.alexanderstreet.com
+HJ cwdb.alexanderstreet.com
+HJ cwld.alexanderstreet.com
+HJ cwo2.alexanderstreet.com
+HJ daiv.alexanderstreet.com
+HJ divo.alexanderstreet.com
+HJ dkbl.alexanderstreet.com
+HJ solomon.dkbl.alexanderstreet.com
+HJ dlcr.alexanderstreet.com
+HJ dntl.alexanderstreet.com
+HJ ediv.alexanderstreet.com
+HJ eena.alexanderstreet.com
+HJ eenz.alexanderstreet.com
+HJ feat.alexanderstreet.com
+HJ flms.alexanderstreet.com
+HJ flon.alexanderstreet.com
+HJ gild.alexanderstreet.com
+HJ glmu.alexanderstreet.com
+HJ glnd.alexanderstreet.com
+HJ harp.alexanderstreet.com
+HJ hist.alexanderstreet.com
+HJ hlth.alexanderstreet.com
+HJ humv.alexanderstreet.com
+HJ ibio.alexanderstreet.com
+HJ imld.alexanderstreet.com
+HJ ind2.alexanderstreet.com
+HJ indr.alexanderstreet.com
+HJ iwrp.alexanderstreet.com
+HJ jazz.alexanderstreet.com
+HJ lali.alexanderstreet.com
+HJ lawv.alexanderstreet.com
+HJ laww.alexanderstreet.com
+HJ lgbt.alexanderstreet.com
+HJ linc.alexanderstreet.com
+HJ litv.alexanderstreet.com
+HJ lrho.alexanderstreet.com
+HJ mcom.alexanderstreet.com
+HJ moto.alexanderstreet.com
+HJ muco.alexanderstreet.com
+HJ mwld.alexanderstreet.com
+HJ nad2.alexanderstreet.com
+HJ nadr.alexanderstreet.com
+HJ nwld.alexanderstreet.com
+HJ opiv.alexanderstreet.com
+HJ orhi.alexanderstreet.com
+HJ phlv.alexanderstreet.com
+HJ psyc.alexanderstreet.com
+HJ psyv.alexanderstreet.com
+HJ radr.alexanderstreet.com
+HJ rom2.alexanderstreet.com
+HJ romr.alexanderstreet.com
+HJ rout.alexanderstreet.com
+HJ rtiv.alexanderstreet.com
+HJ sali.alexanderstreet.com
+HJ sciv.alexanderstreet.com
+HJ search.alexanderstreet.com
+HJ shmu.alexanderstreet.com
+HJ silf.alexanderstreet.com
+HJ sixt.alexanderstreet.com
+HJ soth.alexanderstreet.com
+HJ spex.alexanderstreet.com
+HJ swrp.alexanderstreet.com
+HJ tcpt.alexanderstreet.com
+HJ tcr1.alexanderstreet.com
+HJ tcrb.alexanderstreet.com
+HJ tcrt.alexanderstreet.com
+HJ vasc.alexanderstreet.com
+HJ vast.alexanderstreet.com
+HJ video.alexanderstreet.com
+HJ wasi.alexanderstreet.com
+HJ wasm.alexanderstreet.com
+HJ wass.alexanderstreet.com
+HJ whiv.alexanderstreet.com
+HJ wlid.alexanderstreet.com
+HJ wlit.alexanderstreet.com
+HJ wnrv.alexanderstreet.com
+HJ wodr.alexanderstreet.com
+HJ womu.alexanderstreet.com
+HJ womv.alexanderstreet.com
+HJ wwav.alexanderstreet.com
+HJ solomon.aadr.alexanderstreet.com
+HJ https://solomon.aadr.alexanderstreet.com
+HJ solomon.bwld.alexanderstreet.com
+HJ https:// solomon.bwld.alexanderstreet.com
+HJ solomon.eena.alexanderstreet.com
+HJ https://solomon.eena.alexanderstreet.com
+HJ solomon.cwld.alexanderstreet.com
+HJ https://solomon.cwld.alexanderstreet.com
+
+
+## Added 10/28/2016 to address SPU HTTPS problem. PJM ##
+HJ https://aadr.alexanderstreet.com
+HJ https://aamr.alexanderstreet.com
+HJ https://adli.alexanderstreet.com
+HJ https://afso.alexanderstreet.com
+HJ https://ahiv.alexanderstreet.com
+HJ https://amso.alexanderstreet.com
+HJ https://ant1.alexanderstreet.com
+HJ https://anth.alexanderstreet.com
+HJ https://anto.alexanderstreet.com
+HJ https://area.alexanderstreet.com
+HJ https://artv.alexanderstreet.com
+HJ https://atho.alexanderstreet.com
+HJ https://ativ.alexanderstreet.com
+HJ https://bakr.alexanderstreet.com
+HJ https://bart.alexanderstreet.com
+HJ https://bld2.alexanderstreet.com
+HJ https://bldr.alexanderstreet.com
+HJ https://blfi.alexanderstreet.com
+HJ https://blst.alexanderstreet.com
+HJ https://blsv.alexanderstreet.com
+HJ https://bltc.alexanderstreet.com
+HJ https://blww.alexanderstreet.com
+HJ https://busv.alexanderstreet.com
+HJ https://bwl2.alexanderstreet.com
+HJ https://bwld.alexanderstreet.com
+HJ https://cali.alexanderstreet.com
+HJ https://cdn.alexanderstreet.com
+HJ https://cjiv.alexanderstreet.com
+HJ https://clmu.alexanderstreet.com
+HJ https://clmv.alexanderstreet.com
+HJ https://comx.alexanderstreet.com
+HJ https://cpho.alexanderstreet.com
+HJ https://ctiv.alexanderstreet.com
+HJ https://curv.alexanderstreet.com
+HJ https://cwdb.alexanderstreet.com
+HJ https://cwld.alexanderstreet.com
+HJ https://cwo2.alexanderstreet.com
+HJ https://daiv.alexanderstreet.com
+HJ https://divo.alexanderstreet.com
+HJ https://dkbl.alexanderstreet.com
+HJ https://solomon.dkbl.alexanderstreet.com
+HJ https://dlcr.alexanderstreet.com
+HJ https://dntl.alexanderstreet.com
+HJ https://ediv.alexanderstreet.com
+HJ https://eena.alexanderstreet.com
+HJ https://eenz.alexanderstreet.com
+HJ https://feat.alexanderstreet.com
+HJ https://flms.alexanderstreet.com
+HJ https://flon.alexanderstreet.com
+HJ https://gild.alexanderstreet.com
+HJ https://glmu.alexanderstreet.com
+HJ https://glnd.alexanderstreet.com
+HJ https://harp.alexanderstreet.com
+HJ https://hist.alexanderstreet.com
+HJ https://hlth.alexanderstreet.com
+HJ https://humv.alexanderstreet.com
+HJ https://ibio.alexanderstreet.com
+HJ https://imld.alexanderstreet.com
+HJ https://ind2.alexanderstreet.com
+HJ https://indr.alexanderstreet.com
+HJ https://iwrp.alexanderstreet.com
+HJ https://jazz.alexanderstreet.com
+HJ https://lali.alexanderstreet.com
+HJ https://lawv.alexanderstreet.com
+HJ https://laww.alexanderstreet.com
+HJ https://lgbt.alexanderstreet.com
+HJ https://linc.alexanderstreet.com
+HJ https://litv.alexanderstreet.com
+HJ https://lrho.alexanderstreet.com
+HJ https://mcom.alexanderstreet.com
+HJ https://moto.alexanderstreet.com
+HJ https://muco.alexanderstreet.com
+HJ https://mwld.alexanderstreet.com
+HJ https://nad2.alexanderstreet.com
+HJ https://nadr.alexanderstreet.com
+HJ https://nwld.alexanderstreet.com
+HJ https://opiv.alexanderstreet.com
+HJ https://orhi.alexanderstreet.com
+HJ https://phlv.alexanderstreet.com
+HJ https://psyc.alexanderstreet.com
+HJ https://psyv.alexanderstreet.com
+HJ https://radr.alexanderstreet.com
+HJ https://rom2.alexanderstreet.com
+HJ https://romr.alexanderstreet.com
+HJ https://rout.alexanderstreet.com
+HJ https://rtiv.alexanderstreet.com
+HJ https://sali.alexanderstreet.com
+HJ https://sciv.alexanderstreet.com
+HJ https://search.alexanderstreet.com
+HJ https://shmu.alexanderstreet.com
+HJ https://silf.alexanderstreet.com
+HJ https://sixt.alexanderstreet.com
+HJ https://soth.alexanderstreet.com
+HJ https://spex.alexanderstreet.com
+HJ https://swrp.alexanderstreet.com
+HJ https://tcpt.alexanderstreet.com
+HJ https://tcr1.alexanderstreet.com
+HJ https://tcrb.alexanderstreet.com
+HJ https://tcrt.alexanderstreet.com
+HJ https://vasc.alexanderstreet.com
+HJ https://vast.alexanderstreet.com
+HJ https://video.alexanderstreet.com
+HJ https://wasi.alexanderstreet.com
+HJ https://wasm.alexanderstreet.com
+HJ https://wass.alexanderstreet.com
+HJ https://whiv.alexanderstreet.com
+HJ https://wlid.alexanderstreet.com
+HJ https://wlit.alexanderstreet.com
+HJ https://wnrv.alexanderstreet.com
+HJ https://wodr.alexanderstreet.com
+HJ https://womu.alexanderstreet.com
+HJ https://womv.alexanderstreet.com
+HJ https://wwav.alexanderstreet.com
+
+# Updated per ralight 2021-10-08
+Title Alexander Street Press MARC Records (updated 20211007)
+URL http://www.aspresolver.com
+HJ https://www.aspresolver.com
+DJ aspresolver.com
+
+Title Academic Video Store
+URL https://www.academicvideostore.com
+DJ academicvideostore.com
+
+
+Title  Alternative Investment Law Report
+URL  http://news.bna.com/airn
+Host news.bna.com
+
+Title	American Lawyer
+URL	http://www.americanlawyer.com
+D	americanlawyer.com
+
+Title	American Lawyer Digital
+URL	http://www.americanlawyer-digital.com
+D	americanlawyer-digital.com
+
+Title	Art Law and Cultural Property Database
+URL	http://www.ifar.org
+D	ifar.org
+
+Title  Americans with Disabilities Act Manual
+URL  http://laborandemploymentlaw.bna.com
+
+Title  Antitrust & Trade Regulation Daily
+URL  http://news.bna.com/adln
+Host news.bna.com
+
+Title  Antitrust and Trade Regulation Report
+URL  http://news.bna.com/atln
+
+Title    BNA
+URL      http://library.bnatax.com/cgi-bin/om_isapi.dll?softpage=nudge
+DJ       bnatax.com
+DJ       bna.com
+HJ       ecenter.bna.com
+HJ       bna.com
+HJ       bnatax.com
+HJ       pubs.bna.com
+HJ	  webutil.bna.com
+URL	  http://corpgov.bna.com
+URL      http://corplaw.bna.com
+HJ       benefits.bna.com
+HJ       library.bnatax.com
+HJ       laborandemploymentlaw.bna.com
+HJ 	  esweb.bna.com
+HJ       lawyersmanual.bna.com
+HJ       healthlaw.bna.com
+HJ       iplaw.bna.com
+HJ       exportguide.bna.com
+HJ       laborandemploymentlaw.bna.com
+Find     prd = "tmdtr-slb.bna.com";
+Replace  prd = "^ptmdtr-slb.bna.com^";
+Find     location.hostname
+Replace  location.host
+
+Title  Banking Daily
+URL  http://news.bna.com/bdln
+Host news.bna.com
+
+Title  Banking Report
+URL  http://news.bna.com/bnln
+Host news.bna.com
+
+Title  Bankruptcy Law Reporter
+URL  http://news.bna.com/bbln
+Host news.bna.com
+
+Title  Bankruptcy Law Resource Center
+URL  http://bankruptcylaw.bna.com/barc
+Host bankruptcylaw.bna.com
+
+Title  Benefits Practice Resource Center
+URL  http://benefits.bna.com
+
+Title  BioTech Watch
+URL  http://news.bna.com/bwdm
+Host news.bna.com
+
+# Added per RAL 2019-06-17
+Title Bloomberg Environment
+URL https://news.bloombergenvironment.com
+HJ news.bloombergenvironment.com
+DJ bloombergenvironment.com
+DJ bloombergenvironment.com
+
+# Added per ralight 2021-06-17
+# neverproxy directive used to resolve issues with accessing ID/PW if link is proxied
+# stanza should be removed/replaced if IP/proxy authentication ever added for a Bloomberg Law resource
+# ERA staff see LIBERA-8356692 for more information
+Title Bloomberg Law
+NeverProxy www.bloomberglaw.com
+
+# Add per RAL 2018-10-18
+Title Bloomberg's Bankruptcy Law News
+URL https://news.bloomberglaw.com/bankruptcy-law
+HJ news.bloomberglaw.com
+HJ bloomberglaw.com
+DJ bloomberglaw.com
+
+Title  Broker/Dealer Compliance Report
+URL  http://news.bna.com/bcln
+Host news.bna.com
+
+Title   CCH Business Internet Library
+URL     http://business.cch.com/network
+DJ	business.cch.com
+DJ      business.cch.com
+
+Title   CCH Tax Research Network
+URL     http://tax.cchgroup.com/ipnetwork
+DJ      cchgroup.com
+DJ      cchgroup.com
+
+Title   CCH Tax Research Network
+URL     http://tax.cchgroup.com/
+D       tax.cchgroup.com
+
+Title   CCH Healthcare Library
+URL     http://health.cch.com/ipnetwork
+DJ      cch.com
+DJ      cch.com
+
+# Added per ralight 2023-07-13
+Title Civic Research Institute (Added 20220928)
+URL https://www.civicresearchinstitute.com
+HJ http://www.civicresearchinstitute.com
+DJ civicresearchinstitute.com
+
+Title University Press Scholarship Online (updated 20211124)
+URL https://www.universitypressscholarship.com/
+HJ britishacademy.universitypressscholarship.com
+HJ cairo.universitypressscholarship.com
+HJ california.universitypressscholarship.com
+HJ chicago.universitypressscholarship.com
+HJ columbia.universitypressscholarship.com
+HJ cornell.universitypressscholarship.com
+HJ edinburgh.universitypressscholarship.com
+HJ florida.universitypressscholarship.com
+HJ fordham.universitypressscholarship.com
+HJ hawaii.universitypressscholarship.com
+HJ hongkong.universitypressscholarship.com
+HJ illinois.universitypressscholarship.com
+HJ kentucky.universitypressscholarship.com
+HJ liverpool.universitypressscholarship.com
+HJ manchester.universitypressscholarship.com
+HJ minnesota.universitypressscholarship.com
+HJ mississippi.universitypressscholarship.com
+HJ mitpress.universitypressscholarship.com
+HJ northcarolina.universitypressscholarship.com
+HJ nyu.universitypressscholarship.com
+HJ oxford.universitypressscholarship.com
+HJ policypress.universitypressscholarship.com
+HJ princeton.universitypressscholarship.com
+HJ stanford.universitypressscholarship.com
+HJ universitypressscholarship.com
+HJ yale.universitypressscholarship.com
+HJ www.britishacademy.universitypressscholarship.com
+HJ www.cairo.universitypressscholarship.com
+HJ www.california.universitypressscholarship.com
+HJ www.chicago.universitypressscholarship.com
+HJ www.columbia.universitypressscholarship.com
+HJ www.cornell.universitypressscholarship.com
+HJ www.edinburgh.universitypressscholarship.com
+HJ www.florida.universitypressscholarship.com
+HJ www.fordham.universitypressscholarship.com
+HJ www.hawaii.universitypressscholarship.com
+HJ www.hongkong.universitypressscholarship.com
+HJ www.illinois.universitypressscholarship.com
+HJ www.kentucky.universitypressscholarship.com
+HJ www.liverpool.universitypressscholarship.com
+HJ www.manchester.universitypressscholarship.com
+HJ www.minnesota.universitypressscholarship.com
+HJ www.mississippi.universitypressscholarship.com
+HJ www.mitpress.universitypressscholarship.com
+HJ www.northcarolina.universitypressscholarship.com
+HJ www.nyu.universitypressscholarship.com
+HJ www.oxford.universitypressscholarship.com
+HJ www.policypress.universitypressscholarship.com
+HJ www.princeton.universitypressscholarship.com
+HJ www.stanford.universitypressscholarship.com
+HJ www.universitypressscholarship.com
+HJ www.yale.universitypressscholarship.com
+HJ https://britishacademy.universitypressscholarship.com
+HJ https://cairo.universitypressscholarship.com
+HJ https://california.universitypressscholarship.com
+HJ https://chicago.universitypressscholarship.com
+HJ https://columbia.universitypressscholarship.com
+HJ https://cornell.universitypressscholarship.com
+HJ https://edinburgh.universitypressscholarship.com
+HJ https://florida.universitypressscholarship.com
+HJ https://fordham.universitypressscholarship.com
+HJ https://hawaii.universitypressscholarship.com
+HJ https://hongkong.universitypressscholarship.com
+HJ https://illinois.universitypressscholarship.com
+HJ https://kentucky.universitypressscholarship.com
+HJ https://liverpool.universitypressscholarship.com
+HJ https://manchester.universitypressscholarship.com
+HJ https://minnesota.universitypressscholarship.com
+HJ https://mississippi.universitypressscholarship.com
+HJ https://mitpress.universitypressscholarship.com
+HJ https://northcarolina.universitypressscholarship.com
+HJ https://nyu.universitypressscholarship.com
+HJ https://oxford.universitypressscholarship.com
+HJ https://policypress.universitypressscholarship.com
+HJ https://princeton.universitypressscholarship.com
+HJ https://stanford.universitypressscholarship.com
+HJ https://universitypressscholarship.com
+HJ https://yale.universitypressscholarship.com
+HJ https://www.britishacademy.universitypressscholarship.com
+HJ https://www.cairo.universitypressscholarship.com
+HJ https://www.california.universitypressscholarship.com
+HJ https://www.chicago.universitypressscholarship.com
+HJ https://www.columbia.universitypressscholarship.com
+HJ https://www.cornell.universitypressscholarship.com
+HJ https://www.edinburgh.universitypressscholarship.com
+HJ https://www.florida.universitypressscholarship.com
+HJ https://www.fordham.universitypressscholarship.com
+HJ https://www.hawaii.universitypressscholarship.com
+HJ https://www.hongkong.universitypressscholarship.com
+HJ https://www.illinois.universitypressscholarship.com
+HJ https://www.kentucky.universitypressscholarship.com
+HJ https://www.liverpool.universitypressscholarship.com
+HJ https://www.manchester.universitypressscholarship.com
+HJ https://www.minnesota.universitypressscholarship.com
+HJ https://www.mississippi.universitypressscholarship.com
+HJ https://www.mitpress.universitypressscholarship.com
+HJ https://www.northcarolina.universitypressscholarship.com
+HJ https://www.nyu.universitypressscholarship.com
+HJ https://www.oxford.universitypressscholarship.com
+HJ https://www.policypress.universitypressscholarship.com
+HJ https://www.princeton.universitypressscholarship.com
+HJ https://www.stanford.universitypressscholarship.com
+HJ https://www.universitypressscholarship.com
+HJ https://www.yale.universitypressscholarship.com
+HJ https://oxfordscholarship.com
+HJ https://www.oxfordscholarship.com
+HJ oxfordscholarship.com
+HJ www.oxfordscholarship.com
+DJ oxfordscholarship.com
+DJ universitypressscholarship.com
+
+# Updated per ralight 2023-02-09
+Title CQ.com
+URL https://plus.cq.com/home
+HJ plus.cq.com
+HJ https://www.cq.com
+HJ http://www.cq.com
+HJ www.cq.com
+DJ cq.com
+
+# Updated per ralight 2023-01-10
+Title CQ Researcher  (updated 20230106)
+URL http://library.cqpress.com/cqresearcher/
+HJ library.cqpress.com
+# Additional https HJ added, not included in OCLC stanza
+HJ https://library.cqpress.com
+DJ library.cqpress.com
+DJ cqpress.com
+Find &url=http://
+Replace &url=http://^A
+Find &url=https://
+Replace &url=https://^A
+
+Title  Chemical Regulation Reporter - Current Reports
+URL  http://news.bna.com/chln
+Host news.bna.com
+
+Title  Class Action Litigation Report
+URL  http://news.bna.com/clsn
+Host news.bna.com
+
+Title  Collective Bargaining Negotiations & Contracts
+URL  http://laborandemploymentlaw.bna.com
+
+Title  Computer Technology Law Report
+URL  http://news.bna.com/ctln
+Host news.bna.com
+
+Title  Construction Labor Report
+URL  http://news.bna.com/cnln
+Host news.bna.com
+
+Title  Corporate Accountability Report 
+URL  http://news.bna.com/caln
+Host news.bna.com
+
+Title  Corporate Compliance Library
+URL  http://corpcompliance.bna.com
+
+Title  Corporate Counsel Weekly
+URL  http://news.bna.com/ccln
+Host news.bna.com
+
+Title  Corporate Governance Library
+URL  http://corpgov.bna.com
+
+Title  Corporate Law Daily
+URL  http://news.bna.com/cldn
+Host news.bna.com
+
+Title  Corporate Practice Library
+URL  http://corplaw.bna.com
+
+# Added per ralight 2021-06-17
+# Stanza previously called Criminal Law Reporter
+Title BNA (20170927)
+URL http://news.bna.com
+HJ https://antitrust.bna.com
+HJ https://bankruptcylaw.bna.com
+HJ https://benefits.bna.com
+HJ https://cb.bna.com
+HJ https://corpcompliance.bna.com
+HJ https://corplawrc.bna.com
+HJ https://corpgov.bna.com
+HJ https://dailyreport.bna.com
+HJ https://ddee.bna.com
+HJ https://ediscovery.bna.com
+HJ https://erisatracker.bna.com
+HJ https://esnews.bna.com
+HJ https://esweb.bna.com
+HJ https://essential.bna.com
+HJ https://esweb.bna.com
+HJ https://exportguide.bna.com
+HJ https://flsatracker.bna.com
+HJ https://go.bna.com
+HJ https://healthlawrc.bna.com
+HJ https://hr.bna.com
+HJ https://internetlaw.bna.com
+HJ https://iplaw.bna.com
+HJ https://ippubs.bna.com
+HJ https://laborandemploymentlaw.bna.com
+HJ https://lawyersmanual.bna.com
+HJ https://medialaw.bna.com
+HJ https://my.bna.com
+HJ https://news.bna.com
+HJ https://privacylaw.bna.com
+HJ https://pubs.bna.com
+HJ https://subscript.bna.com
+HJ https://https://subscript.bna.com
+HJ https://taxandaccounting.bna.com
+HJ https://teln.bna.com
+HJ https://uslw.bna.com
+HJ https://www.bna.com
+HJ https://bna.com
+HJ https://www.bnai.com
+HJ https://bnai.com
+HJ https://library.bnatax.com
+HJ https://www.bnatax.com
+HJ https://bnatax.com
+HJ https://www.taxnotes.com
+HJ https://taxnotes.com
+HJ https://profile.bna.com
+HJ profile.bna.com
+HJ antitrust.bna.com
+HJ bankruptcylaw.bna.com
+HJ benefits.bna.com
+HJ cb.bna.com
+HJ corpcompliance.bna.com
+HJ corplawrc.bna.com
+HJ corpgov.bna.com
+HJ dailyreport.bna.com
+HJ ddee.bna.com
+HJ ediscovery.bna.com
+HJ erisatracker.bna.com
+HJ esnews.bna.com
+HJ esweb.bna.com
+HJ essential.bna.com
+HJ esweb.bna.com
+HJ exportguide.bna.com
+HJ flsatracker.bna.com
+HJ go.bna.com
+HJ healthlawrc.bna.com
+HJ hr.bna.com
+HJ internetlaw.bna.com
+HJ iplaw.bna.com
+HJ ippubs.bna.com
+HJ laborandemploymentlaw.bna.com
+HJ lawyersmanual.bna.com
+HJ medialaw.bna.com
+HJ my.bna.com
+HJ news.bna.com
+HJ privacylaw.bna.com
+HJ pubs.bna.com
+HJ subscript.bna.com
+HJ https://subscript.bna.com
+HJ taxandaccounting.bna.com
+HJ teln.bna.com
+HJ uslw.bna.com
+HJ www.bna.com
+HJ bna.com
+HJ www.bnai.com
+HJ bnai.com
+HJ library.bnatax.com
+HJ www.bnatax.com
+HJ bnatax.com
+HJ www.taxnotes.com
+HJ taxnotes.com
+DJ bna.com
+DJ bnai.com
+DJ bnatax.com
+DJ taxnotes.com
+
+Title  Daily Environment Report
+URL  http://news.bna.com/deln
+Host news.bna.com
+
+Title  Daily Labor Report
+URL  http://news.bna.com/dlln
+Host news.bna.com
+
+Title  Daily Report for Executives
+URL  http://news.bna.com/drln
+Host news.bna.com
+
+Title  Daily Tax Report
+URL  http://news.bna.com/dtln
+Host news.bna.com
+
+Title  Digital Discovery & e-Evidence
+URL  http://news.bna.com/ddee
+Host news.bna.com
+
+Title  E-Commerce Tax Report
+URL  http://news.bna.com/etxn
+Host news.bna.com
+
+# Updated per ralight 2021-07-27
+Title Environment & Energy Publishing
+URL http://www.eenews.net
+HJ https://subscriber.politicopro.com
+HJ www.eenews.net
+HJ https://www.eenews.net
+DJ eenews.net
+HJ www.greenwire.com
+HJ https://www.greenwire.com
+HJ subscriber.politicopro.com
+DJ greenwire.com
+DJ politicopro.com
+
+Title  EHS Federal Regulatory Alert
+URL  http://news.bna.com/frmn
+Host news.bna.com
+
+Title  EHS State Regulatory Alert
+URL  http://news.bna.com/srmn
+Host news.bna.com
+
+Title	Encyclopedia of Public International Law Online
+URL	http://www.mpepil.com
+D	mpepil.com
+
+# Updated per ralight 2023-10-03
+# This is the stanza for the Law Library  Ebook Central Account (indianasl)
+Title Ebook Central SSO
+Option ebraryUnencodedTokens
+ebrarySite -URL=https://ebookcentral.proquest.com:443 indianasl
+URL https://ebookcentral.proquest.com/lib/indianasl
+HJ https://ebookcentral.proquest.com
+HJ http://ebookcentral.proquest.com
+NeverProxy ebookcentral.proquest.com
+NeverProxy indianasl.ebookcentral.proquest.com
+NeverProxy acs.ebookcentral.proquest.com
+
+
+# Updated per ralight 2023-10-03
+# Stanza exists to account for SSO for Wells campus-wide e-book purchases under library code iub-ebooks
+Title Ebook Central SSO (iub-ebooks)
+Option ebraryUnencodedTokens
+ebrarySite -URL=https://ebookcentral.proquest.com:443 iub-ebooks
+URL https://ebookcentral.proquest.com/lib/iub-ebooks
+HJ https://ebookcentral.proquest.com
+HJ http://ebookcentral.proquest.com
+NeverProxy ebookcentral.proquest.com
+NeverProxy iub-ebooks.ebookcentral.proquest.com
+NeverProxy acs.ebookcentral.proquest.com
+
+Title	Encyclopedia of Public International Law Online NEW
+URL	http://opil.ouplaw.com/home/EPIL
+D	ouplaw.com
+
+T Ent Today
+U http://www.enttoday.org
+H www.enttoday.org
+
+Title  Electronic Commerce & Law Report
+URL  http://news.bna.com/epln
+Host news.bna.com
+
+# Added per ralight 2022-03-07
+Title Elgaronline
+HTTPHeader -request -process X-Requested-With
+URL http://www.elgaronline.com/
+HJ e-elgar.co.uk
+HJ elgaronline.com
+HJ https://elgaronline.com
+HJ https://www.elgaronline.com
+HJ www.e-elgar.co.uk
+HJ www.elgaronline.com
+DJ e-elgar.co.uk
+DJ elgaronline.com
+
+Title  Employment Discrimination Report
+URL  http://news.bna.com/edln
+Host news.bna.com
+
+Title  Employment Discrimination Verdicts & Settlements
+URL  http://pubs.bna.com/ip/BNA/VDS.NSF
+Host pubs.bna.com
+
+Title  Environment Reporter - Current Reports
+URL  http://news.bna.com/erln
+Host news.bna.com
+
+Title  Environment & Safety Resource Center (Fed Env't & Env't Cases)
+URL  http://esweb.bna.com
+
+Title  Environmental Due Diligence Guide Report
+URL  http://news.bna.com/ddln
+Host news.bna.com
+
+Title	Environmental Law Reporter
+URL	http://www.elr.info
+DJ	elr.info
+
+Title  ERISA Litigation Tracker
+URL  http://erisatracker.bna.com
+
+Title  Expert Evidence Report
+URL  http://news.bna.com/exln
+
+Title  Export Reference Library
+URL  http://exportguide.bna.com/exgw
+Host exportguide.bna.com
+
+Title  Family Law Reporter - Current Reports
+URL  http://news.bna.com/flln
+Host news.bna.com
+
+Title	Fastcase
+URL	https://apps.fastcase.com/PartnerBenefits/?IPKey=n%2feij5dWKhUAbU9dgV14w1wbhq5APxxEaLZ5gu0HI2P887JR1ZapB3Ixh6yeFCGJR5MUlI2VJkrPOLTgd7t3WVBKtB5Qq4nmxNrMc%2fTX8ABpYFgl0QGMOnuQXozf4YIn&LogoutUrl=http://www.law.indiana.edu
+D	fastcase.com
+DJ	fastcase.com
+H	https://apps.fastcase.com
+
+Title  Federal Contracts Report
+URL  http://news.bna.com/fcln
+Host news.bna.com
+
+Title  FLSA Litigation Tracker 
+URL  http://flsatracker.bna.com
+
+Title	Foreign Law Guide
+URL	http://foreignlawguide.com/ip
+DJ	foreignlawguide.com
+
+Title  Government Employee Relations Report
+URL  http://news.bna.com/grln
+Host news.bna.com
+
+Title  Health Care Daily Report
+URL  http://healthlawrc.bna.com/hlrc/gohp.adp?tab=hdln
+Host healthlawrc.bna.com
+
+Title  Health Care Fraud Report
+URL  http://healthlawrc.bna.com/hlrc/lpages/lpages.adp?pg=notif&type=notif&prod=hfln
+Host healthlawrc.bna.com
+
+Title  Health Care Policy Report
+URL  http://news.bna.com/hcln
+Host news.bna.com
+
+Title  Health Insurance Report
+URL  http://news.bna.com/hpln
+Host news.bna.com
+
+Title  Health IT Law & Industry Report
+URL  http://news.bna.com/hiln
+Host news.bna.com
+
+Title  Health Law Resource Center
+URL  http://healthlawrc.bna.com/hlrc/gohp.adp?tab=home
+Host healthlawrc.bna.com
+
+Title  Health Law Reporter
+URL  http://healthlawrc.bna.com/hlrc/gohp.adp?tab=hlln
+Host healthlawrc.bna.com
+
+Title	Hein Online English Reports, Full Reprint (1220-1865)
+URL	http://heinonline.org/HOL/Index?collection=engrep&set_as_cursor=clear
+D	heinonline.org
+
+Title  Homeland Security Briefing
+URL  http://news.bna.com/hsdm
+Host news.bna.com
+
+Title  Human Resources Report
+URL  http://news.bna.com/hrln
+Host news.bna.com
+
+Title	Index to Legal Periodicals and Books (H.W. Wilson)
+URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpb
+D	ebscohost.com
+
+Title 	Index to Legal Periodicals Retrospective: 1908 - 1980 (H.W. Wilson)
+URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpr
+D 	ebscohost.com
+
+Title  Infrastructure Investment & Policy Report
+URL  http://news.bna.com/iiln
+Host news.bna.com
+
+### Updated to recommended stanza from OCLC Remove this one after 9/1/2016
+#Title 	IntelliConnect
+#URL   	http://intelliconnect.cch.com
+#DJ    	cch.com
+
+# Updated per ralight 2023-07-20
+HTTPMethod DELETE
+ProxyHostnameEdit calculators.cch.com$ calculators-cch-com
+ProxyHostnameEdit taxcalendar.cch.com$ taxcalendar-cch-com
+ProxyHostnameEdit tools.cch.com$ tools-cch-com
+ProxyHostnameEdit smartcharts.cch.com$ smartcharts-cch-com
+ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
+Title CCH IntelliConnect (OCLC IncludeFile udpated 20230718)
+Mimefilter application/json .* javascript
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+HTTPHeader -request -process X-CSRF-Token
+URL https://intelliconnect.cch.com
+HJ https://intelliconnect.cch.com
+HJ https://tax.cchgroup.com
+HJ https://tools.cch.com
+HJ https://calculators.cch.com
+HJ https://smartcharts.cch.com
+HJ https://taxcalendar.cch.com
+DJ kluwercompetitionlaw.com
+DJ kluwerarbitration.com
+DJ kluweriplaw.com
+DJ cch.com
+DJ taxcomply.com
+DJ www.salestaxradar.com
+DJ wolterskluwer.com
+
+HTTPMethod DELETE
+ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
+HTTPHeader X-GWT-*
+HTTPHeader X-ApiKey
+HTTPHeader X-CPID
+Title Wolters Kluwer Cheetah (updated 20190524)
+URL http://www.wkcheetah.com
+HJ https://login.intelliconnect.cch.com
+HJ https://login.wolterskluwer.com
+HJ https://wkcheetah.com
+HJ https://www.wkcheetah.com
+HJ www.wkcheetah.com
+DJ wkcheetah.com
+DJ cch.com
+DJ wolterskluwer.com
+MimeFilter application/json .* javascript
+Find http:\/\/
+Replace http://
+
+Title  Intellectual Property Law Resource Center
+URL  http://iplaw.bna.com
+Host news.bna.com
+
+Title  International Business & Finance Daily
+URL  http://news.bna.com/ibdm
+Host news.bna.com
+
+Title  International Environment Reporter - Current Reports
+URL  http://news.bna.com/ieln
+Host news.bna.com
+
+Title  International Financial Regulation Review
+URL  http://news.bna.com/ifin
+Host news.bna.com
+
+Title  International Tax Monitor
+URL  http://news.bna.com/itdm
+Host news.bna.com
+
+Title  International Trade Daily
+URL  http://news.bna.com/tdln
+Host news.bna.com
+
+Title  International Trade Reporter - Current Reports
+URL  http://news.bna.com/itln
+Host news.bna.com
+
+Title	Investor-State LawGuide
+URL	http://www.investorstatelawguide.com
+D	investorstatelawguide.com
+
+# Updated per ralight 2023-03-27
+# Resource previously called JustisOne
+Title vLex (updated 202001204)
+URL https://vlex.com/account/login_ip
+HJ us.vlex.com
+HJ latam.vlex.com
+HJ app.vlex.com
+HJ https://app.vlex.com
+HJ vlex.com
+HJ https://justis.vlex.com
+HJ justis.vlex.com
+# Legacy platform host included during platform migraation
+HJ https://app.justis.com
+DJ vlex.com
+NeverProxy identity.vlex.com
+
+Title  Labor & Employment Law Resource Center
+URL  http://laborandemploymentlaw.bna.com
+
+Title  Labor Relations Week
+URL  http://news.bna.com/lrln
+Host news.bna.com
+
+Title	Law360
+URL	http://www.law360.com
+D	law360.com
+
+Title ChinaLawInfo
+URL https://www.pkulaw.com
+HJ www.pkulaw.com
+HJ www.pkulaw.cn
+HJ en.pkulaw.cn
+DJ pkulaw.com
+DJ en.pkulaw.cn
+
+Title	Leadership Library
+URL	http://lo.bvdep.com
+D	bvdep.com
+
+# Updated per ralight 2022-01-28
+PHE www.lexisnexis.com$ www-lexisnexis-com
+PHE www.nexis.com www-nexis-com
+Option CookiePassThrough
+Title Lexis Advance Quicklaw (updated 20220121)
+HTTPHeader -request -unrewrite X-LN-PreviousRequestId
+HTTPHeader -request -unrewrite X-RequestedWith
+HTTPHeader -request -unrewrite X-LN-CurrentRequestId
+HTTPHeader -request -unrewrite X-RE-Ref
+HTTPHeader -request -unrewrite X-UA-Compatible
+HTTPHeader -request -unrewrite X-LN-InstanceId
+HTTPHeader -request -unrewrite X-LN-PageMode
+HTTPHeader -request -process X-NewRelic-ID
+HTTPHeader -response -process X-LN-PreviousRequestId
+HTTPHeader -response -process X-RequestedWith
+HTTPHeader -response -process X-LN-CurrentRequestId
+HTTPHeader -response -process X-RE-Ref
+HTTPHeader -response -process X-UA-Compatible
+HTTPHeader -response -process X-LN-InstanceId
+HTTPHeader -response -process X-LN-PageMode
+HTTPHeader -response -process X-AspNetMvc-Version
+URL http://lexisadvancequicklaw.ca/
+HJ lexisadvancequicklaw.ca
+DJ lexisadvancequicklaw.ca
+DJ lexis-nexis.com
+DJ lexisnexis.com
+HJ academic.lexisnexis.eu
+HJ academic.lexisnexis.nl
+HJ api.lexisnexis.eu
+DJ lexisnexis.eu
+DJ lexis.com
+DJ lexiscn.com
+DJ cispubs.com
+DJ nexis.com
+DJ lexis-nexis.com
+HJ https://www.lexisnexis.com
+HJ web.lexis-nexis.com
+HJ web.lexisnexis.com
+HJ widgetserver.lexisnexis.nl
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.com
+HJ https://www.lexisnexis.com
+HJ https://www.nexis.com
+HJ https://academic.lexisnexis.nl
+HJ www.lexis.com
+HJ www.lexiscn.com
+HJ w3.lexis.com
+HJ w3.nexis.com
+HJ https://w3.nexis.com
+HJ www.nexis.com
+HJ nexis.com
+HJ companydashboard.lexisnexis.nl
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Find "www.nexis.com"
+Replace "^pwww.nexis.com^"
+Find window.location.replace(redirURL)
+Replace
+Find mq.set("rt", "https://
+Replace mq.set("rt", "https://^A
+Find mq.set("rt", "http://
+Replace mq.set("rt", "http://^A
+Option Cookie
+
+# Updated per ralight 2022-01-26
+# Formerly called Lexis Securities Mosaic
+Title Intelligize
+URL https://www.lexissecuritiesmosaic.com
+HJ https://apps.intelligize.com
+HJ apps.intelligize.com
+HJ http://www.lexissecuritiesmosaic.com
+HJ http://www.knowledgemosaic.com
+HJ www.lexissecuritiesmosaic.com
+HJ www.knowledgemosaic.com
+DJ lexissecuritiesmosaic.com
+DJ knowledgemosaic.com
+
+# Added per aaahlbra 2021-08-12
+Title LegiStorm
+URL https://www.legistorm.com
+HJ www.legistorm.com
+DJ legistorm.com
+
+# Updated per ralight 2023-11-01
+Title LexisNexis (updated 20231031)
+HTTPMethod PATCH
+HTTPHeader -request -process x-ln-currentrequestid
+HTTPHeader -request -process X-LN-PageMode
+HTTPHeader -request -process x-ln-previousrequestid
+URL http://www.lexisnexis.com/hottopics/lnacademic
+DJ lexis-nexis.com
+DJ lexisnexis.com
+HJ academic.lexisnexis.eu
+HJ academic.lexisnexis.nl
+HJ api.lexisnexis.eu
+DJ lexisnexis.eu
+DJ lexis.com
+DJ lexiscn.com
+DJ cispubs.com
+DJ nexis.com
+HJ www.lexisnexis.fr
+DJ lexisnexis.fr
+DJ lexis-nexis.com
+DJ plus.lexis.com
+HJ https://dniaeeyvroj2l.cloudfront.net
+HJ https://plus.lexis.com
+HJ https://www.lexisnexis.com
+HJ https://web.lexisnexis.com
+HJ web.lexis-nexis.com
+HJ web.lexisnexis.com
+HJ widgetserver.lexisnexis.nl
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.com
+HJ https://www.lexisnexis.com
+HJ https://www.nexis.com
+HJ https://academic.lexisnexis.nl
+HJ advance.lexis.com
+HJ https://advance.lexis.com
+HJ www.lexis.com
+HJ www.lexiscn.com
+HJ w3.lexis.com
+HJ w3.nexis.com
+HJ https://w3.nexis.com
+HJ www.nexis.com
+HJ nexis.com
+HJ https://www.nexisuni.com
+HJ www.nexisuni.com
+HJ nexisuni.com
+HJ https://nexisuni.com
+DJ nexisuni.com
+HJ https://companydashboard.lexisnexis.nl
+HJ companydashboard.lexisnexis.nl
+HJ https://www.mylexisnexis.co.za
+HJ https://mylexisnexis.co.za
+HJ www.mylexisnexis.co.za
+DJ mylexisnexis.co.za
+HJ https://www.lexisnexis.co.za
+HJ https://lexisnexis.co.za
+HJ www.lexisnexis.co.za
+HJ lexisnexis.co.za
+DJ lexisnexis.co.za
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Find "www.nexis.com"
+Replace "^pwww.nexis.com^"
+Find window.location.replace(redirURL)
+Replace
+Find mq.set("rt", "https://
+Replace mq.set("rt", "https://^A
+Find mq.set("rt", "http://
+Replace mq.set("rt", "http://^A
+Find if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1)
+Replace if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1 || forwardTo.indexOf("lexis-com") != -1 || forwardTo.indexOf("nexis-com") != -1)
+Option Cookie
+AnonymousURL -*
+
+# Modified per RAL 2020-07-02
+# Brief stanza to avoid needhost errors for a SSO/SAML authenticated resource
+Title LexisNexis Digital Library
+NeverProxy https://lexisdl.com/welcome/login/maurer
+
+Title  Life Sciences Law & Industry Report
+URL  http://news.bna.com/lsln
+Host news.bna.com
+
+Title LLMC
+URL http://llmc-digital.org
+D llmc-digital.org
+HJ www.llmc-digital.org
+HJ discover.llmc.com
+
+Title  Media Law Reporter
+URL  http://medialaw.bna.com
+
+Title  Medical Devices Law & Industry Report
+URL  http://news.bna.com/meln
+Host news.bna.com
+
+Title  Medical Research Law & Policy Report 
+URL  http://news.bna.com/mrln
+Host news.bna.com
+
+Title  Medicare Report
+URL  http://news.bna.com/mdln
+Host news.bna.com
+
+Title  Mergers & Acquisitions Law Report
+URL  http://news.bna.com/maln
+Host news.bna.com
+
+Title  Money & Politics Report
+URL  http://news.bna.com/mpdm
+Host news.bna.com
+
+Title   Mosaic
+URL     http://www.knowledgemosaic.com
+D       knowledgemosaic.com
+
+Title	National Law Journal
+URL	http://www.nlj.com
+D	nlj.com
+
+Title netLibrary
+URL http://www.netlibrary.com
+Domain netlibrary.com
+
+Title	Newspaper ARCHIVES
+URL	http://www.accessnewspaperarchive.com
+D	accessnewspaperarchive.com
+
+Title	Constitutions of the World
+URL	http://www.oceanalaw.com
+D	oceanalaw.com
+
+Title  Occupational Safety & Health Daily
+URL  http://news.bna.com/ohdm
+Host news.bna.com
+
+Title  Occupational Safety & Health Reporter - Current Reports
+URL  http://news.bna.com/osln
+Host news.bna.com
+
+Title   Oxford Journals
+URL	http://jleo.oupjournals.org/ 
+D	oupjournals.org
+DJ	oupjournals.org
+HJ	oupjournals.org
+
+Title   Oxford Journals
+URL	http://jleo.oxfordjournals.org.ezproxy.lib.indiana.edu
+D	oxfordjournals.org.ezproxy.lib.indiana.edu
+DJ	oxfordjournals.org.ezproxy.lib.indiana.edu
+HJ	oxfordjournals.org.ezproxy.lib.indiana.edu
+
+
+Title	Oxford journal -- Yearbook of European law
+URL	http://yel.oxfordjournals.org.ezproxy.lib.indiana.edu
+D	oxfordjournals.org.ezproxy.lib.indiana.edu
+DJ	oxfordjournals.org.ezproxy.lib.indiana.edu
+HJ	oxfordjournals.org.ezproxy.lib.indiana.edu
+
+
+Title	Oxford journal -- Yearbook of European law.
+URL	http://yel.oxfordjournals.org
+D	oxfordjournals.org
+DJ	oxfordjournals.org
+HJ	oxfordjournals.org
+
+# Added per ralight 2024-06-12
+AnonymousURL +https://oup.silverchair-cdn.com/
+Title Oxford Academic (formerly Oxford Journals) (updated 20230106)
+HTTPHeader -request -inject x-proxy-server (server:url:http =~ "@^http://([^:]+)@", re:1)
+URL https://academic.oup.com/
+HJ https://academic.oup.com
+HJ https://global.oup.com
+HJ https://click.skem1.com
+HJ global.oup.com
+HJ academic.oup.com
+HJ click.skem1.com
+DJ oup.com
+DJ watermark.silverchair.com
+Find domain="//global.oup.com"
+Replace domain="//^sglobal.oup.com^"
+AnonymousURL -*
+NeverProxy oup3-idp.sams-sigma.com
+NeverProxy oup2-idp.sams-sigma.com
+NeverProxy oup-idp.sams-sigma.com
+
+
+Title 	Oxford Reports on International Law NEW
+URL	http://opil.ouplaw.com/home/ORIL
+D	ouplaw.com
+
+
+Title 	Parry & Grant Encyclopaedic Dictionary of International Law 3rd
+URL	http://www.oxford-internationallaw.com 
+D	oxford-internationallaw.com 
+HJ	www.oxford-internationallaw.com 
+
+Title  Patent Trademark & Copyright Law Daily
+URL  http://news.bna.com/ptdm
+Host news.bna.com
+
+Title  Patent Trademark and Copyright Journal
+URL  http://news.bna.com/ptln
+Host news.bna.com
+
+Title  Pension & Benefits Daily
+URL  http://news.bna.com/pdln
+Host news.bna.com
+
+Title  Pension and Benefits Reporter - Current Reports
+URL  http://news.bna.com/pbln
+Host news.bna.com
+
+Title  Pharmaceutical Law & Industry Report 
+URL  http://news.bna.com/piln
+Host news.bna.com
+
+Title  Privacy Law Watch
+URL  http://news.bna.com/pwdm
+Host news.bna.com
+
+Title  Privacy & Security Law Report
+URL  http://news.bna.com/pvln
+Host news.bna.com
+
+Title  Product Safety & Liability Reporter - Current Reports
+URL  http://news.bna.com/psln
+Host news.bna.com
+
+Title     Public Lands News
+URL       http://www.plnfpr.com
+D         plnfpr.com
+HJ        www.plnfpr.com
+
+Title  Real Estate Law & Industry Report
+URL  http://news.bna.com/reln
+Host news.bna.com
+
+Title  Right-To-Know Planning Guide Report
+URL  http://news.bna.com/rkln
+Host news.bna.com
+
+Title  Securities Law Daily
+URL  http://news.bna.com/sdln
+Host news.bna.com
+
+Title  Securities Regulation and Law Report
+URL  http://news.bna.com/srln
+Host news.bna.com
+
+Title  Social Media Law & Policy Report
+URL  http://news.bna.com/smlr/
+Host news.bna.com
+
+Title  State Environment Daily
+URL  http://news.bna.com/sedm
+Host news.bna.com
+
+Title  State Health Care Regulatory Developments
+URL  http://news.bna.com/hcmn
+Host news.bna.com
+
+Title  Supreme Court Today
+URL  http://pubs.bna.com/ip/bna/lwt.nsf/mainview
+Host pubs.bna.com
+
+Title  TaxCore
+URL  http://news.bna.com/tcln
+Host news.bna.com
+
+Title  Tax Planning International Asia-Pacific Focus
+URL  http://news.bna.com/apon
+Host news.bna.com
+
+Title  Tax Planning International European Tax Service
+URL  http://news.bna.com/euon
+Host news.bna.com
+
+Title  Tax Planning International Indirect Taxes
+URL  http://news.bna.com/econ
+Host news.bna.com
+
+Title  Tax Planning International Review & Forum
+URL  http://news.bna.com/tpon
+Host news.bna.com
+
+Title  Telecommunications Monitor
+URL  http://news.bna.com/tcdm
+Host news.bna.com
+
+Title  TM Portfolios - Federal Collection: US Income; Estates Gifts and Trusts; and Foreign Income
+URL  http://taxandaccounting.bna.com
+
+Title  TM Compensation Planning Journal
+URL  http://taxandaccounting.bna.com
+
+Title  TM Estates Gifts and Trusts Journal
+URL  http://taxandaccounting.bna.com
+
+Title  TM International Journal
+URL  http://taxandaccounting.bna.com
+
+Title  TM Memorandum
+URL  http://taxandaccounting.bna.com
+
+Title  TM Real Estate Journal
+URL  http://taxandaccounting.bna.com
+
+Title  TM State Tax Portfolios
+URL  http://taxandaccounting.bna.com
+
+Title  TM Tax Practice Bulletin (archives)
+URL  http://taxandaccounting.bna.com/btac/display/split_display.adp?vname=tpbnot
+Host taxandaccounting.bna.com
+
+Title  TM Tax Practice Series
+URL  http://taxandaccounting.bna.com/btac/gohp.adp?tab=tps
+Host taxandaccounting.bna.com
+
+Title  TM Transfer Pricing Report
+URL  http://news.bna.com/trln
+Host news.bna.com
+
+Title  TM Weekly Report
+URL  http://news.bna.com/tmwr
+Host news.bna.com
+
+Title  TM Weekly State Tax Report
+URL  http://news.bna.com/msln
+Host news.bna.com
+
+Title  Toxics Law Reporter
+URL  http://news.bna.com/txln
+Host news.bna.com
+
+Title  Transfer Pricing International Journal
+URL  http://news.bna.com/tptn/
+Host news.bna.com
+
+Title  Transportation Watch
+URL  http://news.bna.com/twdm
+Host news.bna.com
+
+Title  Union Labor Report Newsletter 
+URL  http://news.bna.com/ulln
+Host news.bna.com
+
+Title  United States Law Week
+URL  http://news.bna.com/lwln
+Host news.bna.com
+
+Title	United States Treaties and Agreements Library
+URL	http://heinonline.org/HOL/Index?collection=ustreaties&set_as_cursor=clear
+D	heinonline.org
+
+# Updated per ralight 2023-06-14
+Title Vitallaw Premium (OCLC IncludeFile updated 20230612)
+Mimefilter application/json .* javascript
+HTTPHeader -request -process X-GWT-*
+HTTPHeader -request -process X-ApiKey
+HTTPHeader -request -process X-CPID
+HTTPHeader -request -process X-Api-Key
+HTTPHeader -request -process X-CSRF-Token
+URL https://my.vitallaw.com
+HJ http://my.vitallaw.com
+HJ https://login.wolterskluwer.com
+HJ https://tools.cch.com
+HJ https://smartcharts.cch.com
+HJ https://smartcharts.wolterskluwer.com
+HJ https://www.kluwerarbitration.com
+HJ https://www.kluwercompetitionlaw.com
+HJ https://www.kluweriplaw.com
+HJ https://www.rbsourcefilings.com
+DJ IntelliConnect.cch.com
+DJ cch.com
+DJ wolterskluwer.com
+DJ vitallaw.com
+Find http:\/\/
+Replace http://
+
+Title	Westlaw China
+URL	http://westlawchina.com
+D	westlawchina.com
+DJ	westlawchina.com
+HJ	westlawchina.com
+
+# Updated per ralight 2021-10-28
+Option DomainCookieOnly
+Title Westlaw (updated 20211026)
+URL http://www.westlaw.com
+HJ campus.westlaw.com
+HJ https://campus.westlaw.com
+HJ https://intl.westlaw.com
+HJ https://lawschool.westlaw.com
+HJ https://login.westlaw.co.uk
+HJ https://login.westlaw.ie
+HJ https://signon.thomsonreuters.com
+HJ https://uk.westlaw.com
+HJ https://www.westlaw.com
+HJ intl.westlaw.com
+HJ lawschool.westlaw.com
+HJ legalresearch.westlaw.co.uk
+HJ login.westlaw.co.nz
+HJ login.westlaw.co.uk
+HJ login.westlaw.com.au
+HJ login.westlaw.ie
+HJ signon.thomsonreuters.com
+HJ uk.westlaw.com
+HJ westlaw.co.uk
+HJ westlaw.ie
+HJ westlawchile.cl
+HJ www.westlaw.co.nz
+HJ www.westlaw.co.uk
+HJ www.westlaw.com.au
+HJ www.westlaw.es
+HJ www.westlaw.ie
+HJ www.westlawchile.cl
+DJ westlaw.co.nz
+DJ westlaw.co.uk
+DJ westlaw.com
+DJ westlaw.com.au
+DJ westlaw.es
+DJ westlaw.ie
+DJ westlawchile.cl
+Option Cookie
+
+Title  White Collar Crime Report
+URL  http://news.bna.com/wcrn
+Host news.bna.com
+
+Title  Wilson
+URL    http://vnweb.hwwilsonweb.com/hww/jumpstart.jhtml
+DJ     hwwilson.com
+HJ      relayweb.hwwilsonweb.com
+
+Title  Workplace Immigration Report 
+URL  http://news.bna.com/wkln
+Host news.bna.com
+
+Title  Workplace Law Report
+URL  http://news.bna.com/wpln
+Host news.bna.com
+
+Title  World Climate Change Report
+URL  http://news.bna.com/clln
+Host news.bna.com
+
+Title  World Communications Regulation Report
+URL  http://news.bna.com/wron
+Host news.bna.com
+
+Title  World Data Protection Report
+URL  http://news.bna.com/wdpn
+Host news.bna.com
+
+Title  World Intellectual Property Report
+URL  http://news.bna.com/wiln
+Host news.bna.com
+
+Title  World Securities Law Report
+URL  http://news.bna.com/wson
+Host news.bna.com
+
+Title  WTO Reporter
+URL  http://news.bna.com/wtln
+Host news.bna.com
+
+# Many sites use dx.doi.org when linking from one database to another.
+# Useful Utilities recommends leaving this definition in your configuration
+# file.  The special -hide option prevents this from showing up in your
+# database menu
+# Updated per RAL 2019-11-19
+Title DOI System
+URL http://doi.org
+Host https://doi.org
+Host dx.doi.org
+Host https://dx.doi.org
+Domain doi.org
+
+#Title AP Photo Archive
+#URL http://accuweather.ap.org
+#DJ ap.org
+#DJ accuweather.com
+#Find imgs = "http://" +
+#Replace imgs = "http://^paccuweather.ap.org^" + entry.data["LOCATIONMICRO"]; ezproxyignore =
+
+## In the following, the Books24x7Site is your site identifier as provided
+## by Books24x7.com and TokenSignatureKey is likewise provided by Book24x7.com
+## The TokenKey is some string that you pick.  You should NOT tell anyone
+## what your TokenKey is.
+#Title Book24x7.com
+#URL http://library.books24x7.com/library.asp?^B
+#Books24x7Site ABC123
+#TokenSignatureKey YouGetThisFromBooks24x7
+#TokenKey SomethingYouPickAndDontTellAnyone
+#DJ books24x7.com
+
+#Title CSA Illumina
+#URL http://www.csa.com
+#Host www.csa2.com
+#DJ csa.com
+#DJ csa2.com
+
+#Title  EBSCO Databases
+#URL    http://search.epnet.com
+#DJ     epnet.com
+
+#Title  Encyclopedia Britannica
+#URL    http://search.eb.com
+#Domain eb.com
+#Domain britannica.com
+
+#Title  FirstSearch
+#URL    http://firstsearch.oclc.org/FSIP
+#Domain oclc.org
+
+#Title Lexis-Nexis
+#URL http://web.lexis-nexis.com
+#DJ lexis-nexis.com
+#DJ lexisnexis.com
+#DJ lexis.com
+#DJ cispubs.com
+#HJ web.lexis-nexis.com
+#HJ web.lexisnexis.com
+#HJ www.lexis-nexis.com
+#HJ www.lexisnexis.com
+#Find GetCookie("LNAUTH")
+#Replace "LNAUTH-IP"
+#Find NAME="_PRIORREFERER" VALUE="http://
+#Replace NAME="_PRIORREFERER" VALUE="http://^A
+
+#Title  Newsbank Newsfile
+#URL    http://infoweb.newsbank.com
+#Domain newsbank.com
+
+#Title  ProQuest
+#URL    http://www.umi.com/pqdauto
+#DJ     proquest.com
+#DJ     umi.com
+
+T Rheumatologist
+U http://www.the-rheumatologist.org/view/index.html
+H www.the-rheumatologist.org
+
+## If you use this definition, be sure to change (yourid) to your
+## institution's identifier
+
+
+## If you try SilverPlatter, be sure to complete the URL as appropriate
+#Title  SilverPlatter
+#URL    http://webspirs.silverplatter.com
+#Domain silverplatter.com
+
+#Title  SIRS
+#URL    http://researcher.sirs.com
+#Domain sirs.com
+
+Title USMLE easy
+URL https://new.usmle-easy.com/institution
+URL https://new.usmle-easy.com/institution?encInsId=NDUzMjQyMzAx
+DJ s3.amazonaws.com
+DJ usmle-Easy.com
+DJ paeasy.com
+DJ mheducation.com
+
+Title ICLR (Incorporated Council of Law Reporting)
+URL http://cases.iclr.co.uk/sub/gateway.dll?f=templates&fn=default.htm
+Host cases.iclr.co.uk
+
+# Updated per ralight 2022-01-13
+T West Academic Study Aids
+U https://subscription.westacademic.com
+H http://subscription.westacademic.com
+H https://signin.westacademic.com
+H http://signin.westacademic.com
+H https://images.westacademic.com
+H http://images.westacademic.com
+DJ westacademic.com
+NeverProxy play.westacademic.com
+
+# added per CWL 10-24-23
+Title TRACfed
+URL https://trac.syr.edu/
+HJ https://tracfed.syr.edu/
+HJ http://tracfed.syr.edu
+HJ https://c2.piano.io
+HJ http://tracfed.syr.edu
+HJ trac.syr.edu
+HJ tracfed.syr.edu
+HJ c2.piano.io
+DJ trac.syr.edu
+DJ tracfed.syr.edu
+DJ c2.piano.io

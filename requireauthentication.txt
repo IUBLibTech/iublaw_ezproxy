@@ -1,0 +1,74 @@
+# INCLUDEFILE ./includes/requireauthentication.txt
+
+INCLUDEFILE ../common_stanzas/aacrjournals.txt
+
+# Updated to https per RAL 2019-04-08
+# Stanza previously called Oxford Reports on International Law
+Title Oxford University Press Law
+URL https://oxfordlawreports.com/
+HJ ildc.oxfordlawreports.com
+HJ oxfordlawreports.com
+HJ www.oxfordlawreports.com
+HJ citator.ouplaw.com
+HJ olrl.ouplaw.com
+HJ opil.ouplaw.com
+HJ oxcat.ouplaw.com
+HJ oxia.ouplaw.com
+HJ oxcon.ouplaw.com
+HJ www.olrl.ouplaw.com
+HJ www.ouplaw.com
+HJ www.oxcat.ouplaw.com
+HJ www.oxia.ouplaw.com
+HJ www.oxcon.ouplaw.com
+HJ ouplaw.com
+HJ https://academic.oup.com
+HJ https://ildc.oxfordlawreports.com
+HJ https://oxfordlawreports.com
+HJ https://citator.ouplaw.com
+HJ https://olrl.ouplaw.com
+HJ https://opil.ouplaw.com
+HJ https://oxcat.ouplaw.com
+HJ https://oxia.ouplaw.com
+HJ https://oxcon.ouplaw.com
+HJ https://www.olrl.ouplaw.com
+HJ https://www.ouplaw.com
+HJ https://www.oxcat.ouplaw.com
+HJ https://www.oxia.ouplaw.com
+HJ http://www.oxcon.ouplaw.com
+HJ https://ouplaw.com
+HJ https://global.oup.com
+HJ https://www.oup.com
+DJ www.oup.com
+DJ oup.com
+DJ https://academic.oup.com
+DJ academic.oup.com
+DJ https://global.oup.com
+DJ https://www.oup.com
+
+# Does not support IPv6, moved to Require Authentication
+# Updated per ralight 2025-06-17
+AnonymousURL -OPTIONS +https://grackle.law.com/graphql
+AnonymousURL +https://geoip.alm.com/*
+Title Law.com
+Find www.law.com
+Replace ^Swww.law.com^
+Find store.law.com
+Replace ^Sstore.law.com^
+URL https://www.law.com
+DJ law.com
+DJ *.law.com
+DJ alm.com
+DJ grackle.law.com
+HJ https://www.law.com
+HJ www.law.com
+HJ dictionary.law.com
+HJ store.law.com
+HJ mediakit.alm.com
+HJ grackle.law.com
+HJ https://geoip.alm.com
+NeverProxy *.cloudfront.net
+NeverProxy images.law.com
+NeverProxy cdnjs.cloudflare.com
+Find </body>
+Replace <script>document.addEventListener("DOMContentLoaded", function() {document.querySelectorAll('a[target="_self"]').forEach(link => { link.setAttribute('target', '_blank'); });});</script></body>
+AnonymousURL -*
