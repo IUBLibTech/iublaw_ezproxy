@@ -533,8 +533,9 @@ HJ www.oxfordscholarship.com
 DJ oxfordscholarship.com
 DJ universitypressscholarship.com
 
-# Updated per ralight 2023-02-09
+# Updated per ralight 2025-08-25
 Title CQ.com
+HTTPHeader -request -process Access-Control-Allow-Origin
 URL https://plus.cq.com/home
 HJ plus.cq.com
 HJ https://www.cq.com
