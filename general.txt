@@ -533,15 +533,20 @@ HJ www.oxfordscholarship.com
 DJ oxfordscholarship.com
 DJ universitypressscholarship.com
 
-# Updated per ralight 2025-08-25
-Title CQ.com
-HTTPHeader -request -process Access-Control-Allow-Origin
-URL https://plus.cq.com/home
-HJ plus.cq.com
-HJ https://www.cq.com
-HJ http://www.cq.com
-HJ www.cq.com
+# Updated per ralight 2025-09-03
+# Stanza provided by OCLC support
+Option CookiePassThrough
+Title CQ
+HTTPHeader -request -process Wicket-Ajax
+HTTPHeader -request -process Wicket-FocusedElementId
+HTTPHeader -request -process Wicket-Ajax-BaseURL
+MimeFilter application/x-www-form-urlencoded .* javascript
+URL https://plus.cq.com
+HJ http://plus.cq.com
+HJ https://jukebox.cq.com
+HJ http://jukebox.cq.com
 DJ cq.com
+Option Cookie
 
 # Updated per ralight 2023-01-10
 Title CQ Researcher  (updated 20230106)
