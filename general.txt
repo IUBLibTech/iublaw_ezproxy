@@ -1220,12 +1220,6 @@ Title  Life Sciences Law & Industry Report
 URL  http://news.bna.com/lsln
 Host news.bna.com
 
-Title LLMC
-URL http://llmc-digital.org
-D llmc-digital.org
-HJ www.llmc-digital.org
-HJ discover.llmc.com
-
 Title  Media Law Reporter
 URL  http://medialaw.bna.com
 
