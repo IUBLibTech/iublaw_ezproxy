@@ -551,19 +551,6 @@ HJ http://media.cq.com
 DJ cq.com
 Option Cookie
 
-# Updated per ralight 2023-01-10
-Title CQ Researcher  (updated 20230106)
-URL http://library.cqpress.com/cqresearcher/
-HJ library.cqpress.com
-# Additional https HJ added, not included in OCLC stanza
-HJ https://library.cqpress.com
-DJ library.cqpress.com
-DJ cqpress.com
-Find &url=http://
-Replace &url=http://^A
-Find &url=https://
-Replace &url=https://^A
-
 Title  Chemical Regulation Reporter - Current Reports
 URL  http://news.bna.com/chln
 Host news.bna.com
