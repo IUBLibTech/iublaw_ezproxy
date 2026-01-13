@@ -1392,14 +1392,6 @@ H www.the-rheumatologist.org
 #URL    http://researcher.sirs.com
 #Domain sirs.com
 
-Title USMLE easy
-URL https://new.usmle-easy.com/institution
-URL https://new.usmle-easy.com/institution?encInsId=NDUzMjQyMzAx
-DJ s3.amazonaws.com
-DJ usmle-Easy.com
-DJ paeasy.com
-DJ mheducation.com
-
 Title ICLR (Incorporated Council of Law Reporting)
 URL http://cases.iclr.co.uk/sub/gateway.dll?f=templates&fn=default.htm
 Host cases.iclr.co.uk
