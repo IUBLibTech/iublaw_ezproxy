@@ -202,13 +202,6 @@ HJ http://www.elr.info
 HJ www.elr.info/
 DJ	elr.info
 
-
-Title	Fastcase
-URL	https://apps.fastcase.com/PartnerBenefits/?IPKey=n%2feij5dWKhUAbU9dgV14w1wbhq5APxxEaLZ5gu0HI2P887JR1ZapB3Ixh6yeFCGJR5MUlI2VJkrPOLTgd7t3WVBKtB5Qq4nmxNrMc%2fTX8ABpYFgl0QGMOnuQXozf4YIn&LogoutUrl=http://www.law.indiana.edu
-D	fastcase.com
-DJ	fastcase.com
-H	https://apps.fastcase.com
-
 Title	Foreign Law Guide
 URL	http://foreignlawguide.com/ip
 DJ	foreignlawguide.com
