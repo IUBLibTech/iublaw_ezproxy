@@ -156,19 +156,6 @@ Title  Corporate Practice Library
 URL  http://corplaw.bna.com
 
 
-# Updated per ralight 2021-07-27
-Title Environment & Energy Publishing
-URL http://www.eenews.net
-HJ https://subscriber.politicopro.com
-HJ www.eenews.net
-HJ https://www.eenews.net
-DJ eenews.net
-HJ www.greenwire.com
-HJ https://www.greenwire.com
-HJ subscriber.politicopro.com
-DJ greenwire.com
-DJ politicopro.com
-
 # Updated per ralight 2023-10-03
 # This is the stanza for the Law Library  Ebook Central Account (indianasl)
 Title Ebook Central SSO
@@ -181,7 +168,7 @@ NeverProxy ebookcentral.proquest.com
 NeverProxy indianasl.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
 
-
+# Ruth's review notes - will move to a common stanza if the stanza is updated in the future. 2026-01-29
 # Updated per ralight 2023-10-03
 # Stanza exists to account for SSO for Wells campus-wide e-book purchases under library code iub-ebooks
 Title Ebook Central SSO (iub-ebooks)
@@ -194,9 +181,6 @@ NeverProxy ebookcentral.proquest.com
 NeverProxy iub-ebooks.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
 
-Title	Encyclopedia of Public International Law Online NEW
-URL	http://opil.ouplaw.com/home/EPIL
-D	ouplaw.com
 
 T Ent Today
 U http://www.enttoday.org
@@ -580,11 +564,6 @@ AnonymousURL -*
 NeverProxy oup3-idp.sams-sigma.com
 NeverProxy oup2-idp.sams-sigma.com
 NeverProxy oup-idp.sams-sigma.com
-
-
-Title 	Oxford Reports on International Law NEW
-URL	http://opil.ouplaw.com/home/ORIL
-D	ouplaw.com
 
 
 Title 	Parry & Grant Encyclopaedic Dictionary of International Law 3rd
