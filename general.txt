@@ -182,11 +182,6 @@ NeverProxy iub-ebooks.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
 
 
-T Ent Today
-U http://www.enttoday.org
-H www.enttoday.org
-
-
 # Added per ralight 2022-03-07
 Title Elgaronline
 HTTPHeader -request -process X-Requested-With
@@ -200,8 +195,11 @@ HJ www.elgaronline.com
 DJ e-elgar.co.uk
 DJ elgaronline.com
 
+# Updated to https per ralight 2026-01-29
 Title	Environmental Law Reporter
-URL	http://www.elr.info
+URL	https://www.elr.info/
+HJ http://www.elr.info
+HJ www.elr.info/
 DJ	elr.info
 
 
