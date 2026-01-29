@@ -1,21 +1,8 @@
 ## Databases begin
 
-Title  ABA/BNA Lawyers' Manual on Professional Conduct
-URL  http://lawyersmanual.bna.com/mopw2
-Host lawyersmanual.bna.com
-
-Title  Accounting Policy & Practice Report
-URL  http://news.bna.com/apln
-Host news.bna.com
-
 Title  Accounting Policy & Practice Series
 URL  http://btac/gohp.adp?tab=acct
 
-
-
-Title  Alternative Investment Law Report
-URL  http://news.bna.com/airn
-Host news.bna.com
 
 Title	American Lawyer
 URL	http://www.americanlawyer.com
@@ -33,11 +20,11 @@ Title  Americans with Disabilities Act Manual
 URL  http://laborandemploymentlaw.bna.com
 
 Title  Antitrust & Trade Regulation Daily
-URL  http://news.bna.com/adln
-Host news.bna.com
+URL  http:///adln
+Host 
 
 Title  Antitrust and Trade Regulation Report
-URL  http://news.bna.com/atln
+URL  http:///atln
 
 Title    BNA
 URL      http://library.bnatax.com/cgi-bin/om_isapi.dll?softpage=nudge
@@ -65,16 +52,13 @@ Find     location.hostname
 Replace  location.host
 
 Title  Banking Daily
-URL  http://news.bna.com/bdln
-Host news.bna.com
+URL  http:///bdln
+Host 
 
 Title  Banking Report
-URL  http://news.bna.com/bnln
+URL  http:///bnln
 Host news.bna.com
 
-Title  Bankruptcy Law Reporter
-URL  http://news.bna.com/bbln
-Host news.bna.com
 
 Title  Bankruptcy Law Resource Center
 URL  http://bankruptcylaw.bna.com/barc
@@ -82,10 +66,6 @@ Host bankruptcylaw.bna.com
 
 Title  Benefits Practice Resource Center
 URL  http://benefits.bna.com
-
-Title  BioTech Watch
-URL  http://news.bna.com/bwdm
-Host news.bna.com
 
 # Added per RAL 2019-06-17
 Title Bloomberg Environment
@@ -107,10 +87,6 @@ URL https://news.bloomberglaw.com/bankruptcy-law
 HJ news.bloomberglaw.com
 HJ bloomberglaw.com
 DJ bloomberglaw.com
-
-Title  Broker/Dealer Compliance Report
-URL  http://news.bna.com/bcln
-Host news.bna.com
 
 Title   CCH Business Internet Library
 URL     http://business.cch.com/network
@@ -268,42 +244,18 @@ HJ http://media.cq.com
 DJ cq.com
 Option Cookie
 
-Title  Chemical Regulation Reporter - Current Reports
-URL  http://news.bna.com/chln
-Host news.bna.com
-
-Title  Class Action Litigation Report
-URL  http://news.bna.com/clsn
-Host news.bna.com
 
 Title  Collective Bargaining Negotiations & Contracts
 URL  http://laborandemploymentlaw.bna.com
 
-Title  Computer Technology Law Report
-URL  http://news.bna.com/ctln
-Host news.bna.com
-
-Title  Construction Labor Report
-URL  http://news.bna.com/cnln
-Host news.bna.com
-
-Title  Corporate Accountability Report 
-URL  http://news.bna.com/caln
-Host news.bna.com
 
 Title  Corporate Compliance Library
 URL  http://corpcompliance.bna.com
 
-Title  Corporate Counsel Weekly
-URL  http://news.bna.com/ccln
-Host news.bna.com
 
 Title  Corporate Governance Library
 URL  http://corpgov.bna.com
 
-Title  Corporate Law Daily
-URL  http://news.bna.com/cldn
-Host news.bna.com
 
 Title  Corporate Practice Library
 URL  http://corplaw.bna.com
@@ -407,29 +359,6 @@ DJ bnai.com
 DJ bnatax.com
 DJ taxnotes.com
 
-Title  Daily Environment Report
-URL  http://news.bna.com/deln
-Host news.bna.com
-
-Title  Daily Labor Report
-URL  http://news.bna.com/dlln
-Host news.bna.com
-
-Title  Daily Report for Executives
-URL  http://news.bna.com/drln
-Host news.bna.com
-
-Title  Daily Tax Report
-URL  http://news.bna.com/dtln
-Host news.bna.com
-
-Title  Digital Discovery & e-Evidence
-URL  http://news.bna.com/ddee
-Host news.bna.com
-
-Title  E-Commerce Tax Report
-URL  http://news.bna.com/etxn
-Host news.bna.com
 
 # Updated per ralight 2021-07-27
 Title Environment & Energy Publishing
@@ -444,13 +373,6 @@ HJ subscriber.politicopro.com
 DJ greenwire.com
 DJ politicopro.com
 
-Title  EHS Federal Regulatory Alert
-URL  http://news.bna.com/frmn
-Host news.bna.com
-
-Title  EHS State Regulatory Alert
-URL  http://news.bna.com/srmn
-Host news.bna.com
 
 Title	Encyclopedia of Public International Law Online
 URL	http://www.mpepil.com
@@ -489,9 +411,6 @@ T Ent Today
 U http://www.enttoday.org
 H www.enttoday.org
 
-Title  Electronic Commerce & Law Report
-URL  http://news.bna.com/epln
-Host news.bna.com
 
 # Added per ralight 2022-03-07
 Title Elgaronline
@@ -506,24 +425,10 @@ HJ www.elgaronline.com
 DJ e-elgar.co.uk
 DJ elgaronline.com
 
-Title  Employment Discrimination Report
-URL  http://news.bna.com/edln
-Host news.bna.com
 
 Title  Employment Discrimination Verdicts & Settlements
 URL  http://pubs.bna.com/ip/BNA/VDS.NSF
 Host pubs.bna.com
-
-Title  Environment Reporter - Current Reports
-URL  http://news.bna.com/erln
-Host news.bna.com
-
-Title  Environment & Safety Resource Center (Fed Env't & Env't Cases)
-URL  http://esweb.bna.com
-
-Title  Environmental Due Diligence Guide Report
-URL  http://news.bna.com/ddln
-Host news.bna.com
 
 Title	Environmental Law Reporter
 URL	http://www.elr.info
@@ -532,16 +437,9 @@ DJ	elr.info
 Title  ERISA Litigation Tracker
 URL  http://erisatracker.bna.com
 
-Title  Expert Evidence Report
-URL  http://news.bna.com/exln
-
 Title  Export Reference Library
 URL  http://exportguide.bna.com/exgw
 Host exportguide.bna.com
-
-Title  Family Law Reporter - Current Reports
-URL  http://news.bna.com/flln
-Host news.bna.com
 
 Title	Fastcase
 URL	https://apps.fastcase.com/PartnerBenefits/?IPKey=n%2feij5dWKhUAbU9dgV14w1wbhq5APxxEaLZ5gu0HI2P887JR1ZapB3Ixh6yeFCGJR5MUlI2VJkrPOLTgd7t3WVBKtB5Qq4nmxNrMc%2fTX8ABpYFgl0QGMOnuQXozf4YIn&LogoutUrl=http://www.law.indiana.edu
@@ -549,9 +447,6 @@ D	fastcase.com
 DJ	fastcase.com
 H	https://apps.fastcase.com
 
-Title  Federal Contracts Report
-URL  http://news.bna.com/fcln
-Host news.bna.com
 
 Title  FLSA Litigation Tracker 
 URL  http://flsatracker.bna.com
@@ -560,9 +455,6 @@ Title	Foreign Law Guide
 URL	http://foreignlawguide.com/ip
 DJ	foreignlawguide.com
 
-Title  Government Employee Relations Report
-URL  http://news.bna.com/grln
-Host news.bna.com
 
 Title  Health Care Daily Report
 URL  http://healthlawrc.bna.com/hlrc/gohp.adp?tab=hdln
@@ -572,17 +464,6 @@ Title  Health Care Fraud Report
 URL  http://healthlawrc.bna.com/hlrc/lpages/lpages.adp?pg=notif&type=notif&prod=hfln
 Host healthlawrc.bna.com
 
-Title  Health Care Policy Report
-URL  http://news.bna.com/hcln
-Host news.bna.com
-
-Title  Health Insurance Report
-URL  http://news.bna.com/hpln
-Host news.bna.com
-
-Title  Health IT Law & Industry Report
-URL  http://news.bna.com/hiln
-Host news.bna.com
 
 Title  Health Law Resource Center
 URL  http://healthlawrc.bna.com/hlrc/gohp.adp?tab=home
@@ -596,13 +477,6 @@ Title	Hein Online English Reports, Full Reprint (1220-1865)
 URL	http://heinonline.org/HOL/Index?collection=engrep&set_as_cursor=clear
 D	heinonline.org
 
-Title  Homeland Security Briefing
-URL  http://news.bna.com/hsdm
-Host news.bna.com
-
-Title  Human Resources Report
-URL  http://news.bna.com/hrln
-Host news.bna.com
 
 Title	Index to Legal Periodicals and Books (H.W. Wilson)
 URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpb
@@ -611,10 +485,6 @@ D	ebscohost.com
 Title 	Index to Legal Periodicals Retrospective: 1908 - 1980 (H.W. Wilson)
 URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpr
 D 	ebscohost.com
-
-Title  Infrastructure Investment & Policy Report
-URL  http://news.bna.com/iiln
-Host news.bna.com
 
 ### Updated to recommended stanza from OCLC Remove this one after 9/1/2016
 #Title 	IntelliConnect
@@ -672,30 +542,6 @@ Title  Intellectual Property Law Resource Center
 URL  http://iplaw.bna.com
 Host news.bna.com
 
-Title  International Business & Finance Daily
-URL  http://news.bna.com/ibdm
-Host news.bna.com
-
-Title  International Environment Reporter - Current Reports
-URL  http://news.bna.com/ieln
-Host news.bna.com
-
-Title  International Financial Regulation Review
-URL  http://news.bna.com/ifin
-Host news.bna.com
-
-Title  International Tax Monitor
-URL  http://news.bna.com/itdm
-Host news.bna.com
-
-Title  International Trade Daily
-URL  http://news.bna.com/tdln
-Host news.bna.com
-
-Title  International Trade Reporter - Current Reports
-URL  http://news.bna.com/itln
-Host news.bna.com
-
 Title	Investor-State LawGuide
 URL	http://www.investorstatelawguide.com
 D	investorstatelawguide.com
@@ -718,10 +564,6 @@ NeverProxy identity.vlex.com
 
 Title  Labor & Employment Law Resource Center
 URL  http://laborandemploymentlaw.bna.com
-
-Title  Labor Relations Week
-URL  http://news.bna.com/lrln
-Host news.bna.com
 
 Title	Law360
 URL	http://www.law360.com
@@ -920,32 +762,8 @@ AnonymousURL -*
 Title LexisNexis Digital Library
 NeverProxy https://lexisdl.com/welcome/login/maurer
 
-Title  Life Sciences Law & Industry Report
-URL  http://news.bna.com/lsln
-Host news.bna.com
-
 Title  Media Law Reporter
 URL  http://medialaw.bna.com
-
-Title  Medical Devices Law & Industry Report
-URL  http://news.bna.com/meln
-Host news.bna.com
-
-Title  Medical Research Law & Policy Report 
-URL  http://news.bna.com/mrln
-Host news.bna.com
-
-Title  Medicare Report
-URL  http://news.bna.com/mdln
-Host news.bna.com
-
-Title  Mergers & Acquisitions Law Report
-URL  http://news.bna.com/maln
-Host news.bna.com
-
-Title  Money & Politics Report
-URL  http://news.bna.com/mpdm
-Host news.bna.com
 
 Title   Mosaic
 URL     http://www.knowledgemosaic.com
@@ -967,13 +785,6 @@ Title	Constitutions of the World
 URL	http://www.oceanalaw.com
 D	oceanalaw.com
 
-Title  Occupational Safety & Health Daily
-URL  http://news.bna.com/ohdm
-Host news.bna.com
-
-Title  Occupational Safety & Health Reporter - Current Reports
-URL  http://news.bna.com/osln
-Host news.bna.com
 
 Title   Oxford Journals
 URL	http://jleo.oupjournals.org/ 
@@ -1032,98 +843,17 @@ URL	http://www.oxford-internationallaw.com
 D	oxford-internationallaw.com 
 HJ	www.oxford-internationallaw.com 
 
-Title  Patent Trademark & Copyright Law Daily
-URL  http://news.bna.com/ptdm
-Host news.bna.com
-
-Title  Patent Trademark and Copyright Journal
-URL  http://news.bna.com/ptln
-Host news.bna.com
-
-Title  Pension & Benefits Daily
-URL  http://news.bna.com/pdln
-Host news.bna.com
-
-Title  Pension and Benefits Reporter - Current Reports
-URL  http://news.bna.com/pbln
-Host news.bna.com
-
-Title  Pharmaceutical Law & Industry Report 
-URL  http://news.bna.com/piln
-Host news.bna.com
-
-Title  Privacy Law Watch
-URL  http://news.bna.com/pwdm
-Host news.bna.com
-
-Title  Privacy & Security Law Report
-URL  http://news.bna.com/pvln
-Host news.bna.com
-
-Title  Product Safety & Liability Reporter - Current Reports
-URL  http://news.bna.com/psln
-Host news.bna.com
 
 Title     Public Lands News
 URL       http://www.plnfpr.com
 D         plnfpr.com
 HJ        www.plnfpr.com
 
-Title  Real Estate Law & Industry Report
-URL  http://news.bna.com/reln
-Host news.bna.com
-
-Title  Right-To-Know Planning Guide Report
-URL  http://news.bna.com/rkln
-Host news.bna.com
-
-Title  Securities Law Daily
-URL  http://news.bna.com/sdln
-Host news.bna.com
-
-Title  Securities Regulation and Law Report
-URL  http://news.bna.com/srln
-Host news.bna.com
-
-Title  Social Media Law & Policy Report
-URL  http://news.bna.com/smlr/
-Host news.bna.com
-
-Title  State Environment Daily
-URL  http://news.bna.com/sedm
-Host news.bna.com
-
-Title  State Health Care Regulatory Developments
-URL  http://news.bna.com/hcmn
-Host news.bna.com
 
 Title  Supreme Court Today
 URL  http://pubs.bna.com/ip/bna/lwt.nsf/mainview
 Host pubs.bna.com
 
-Title  TaxCore
-URL  http://news.bna.com/tcln
-Host news.bna.com
-
-Title  Tax Planning International Asia-Pacific Focus
-URL  http://news.bna.com/apon
-Host news.bna.com
-
-Title  Tax Planning International European Tax Service
-URL  http://news.bna.com/euon
-Host news.bna.com
-
-Title  Tax Planning International Indirect Taxes
-URL  http://news.bna.com/econ
-Host news.bna.com
-
-Title  Tax Planning International Review & Forum
-URL  http://news.bna.com/tpon
-Host news.bna.com
-
-Title  Telecommunications Monitor
-URL  http://news.bna.com/tcdm
-Host news.bna.com
 
 Title  TM Portfolios - Federal Collection: US Income; Estates Gifts and Trusts; and Foreign Income
 URL  http://taxandaccounting.bna.com
@@ -1154,37 +884,6 @@ Title  TM Tax Practice Series
 URL  http://taxandaccounting.bna.com/btac/gohp.adp?tab=tps
 Host taxandaccounting.bna.com
 
-Title  TM Transfer Pricing Report
-URL  http://news.bna.com/trln
-Host news.bna.com
-
-Title  TM Weekly Report
-URL  http://news.bna.com/tmwr
-Host news.bna.com
-
-Title  TM Weekly State Tax Report
-URL  http://news.bna.com/msln
-Host news.bna.com
-
-Title  Toxics Law Reporter
-URL  http://news.bna.com/txln
-Host news.bna.com
-
-Title  Transfer Pricing International Journal
-URL  http://news.bna.com/tptn/
-Host news.bna.com
-
-Title  Transportation Watch
-URL  http://news.bna.com/twdm
-Host news.bna.com
-
-Title  Union Labor Report Newsletter 
-URL  http://news.bna.com/ulln
-Host news.bna.com
-
-Title  United States Law Week
-URL  http://news.bna.com/lwln
-Host news.bna.com
 
 Title	United States Treaties and Agreements Library
 URL	http://heinonline.org/HOL/Index?collection=ustreaties&set_as_cursor=clear
@@ -1261,46 +960,12 @@ DJ westlaw.ie
 DJ westlawchile.cl
 Option Cookie
 
-Title  White Collar Crime Report
-URL  http://news.bna.com/wcrn
-Host news.bna.com
 
 Title  Wilson
 URL    http://vnweb.hwwilsonweb.com/hww/jumpstart.jhtml
 DJ     hwwilson.com
 HJ      relayweb.hwwilsonweb.com
 
-Title  Workplace Immigration Report 
-URL  http://news.bna.com/wkln
-Host news.bna.com
-
-Title  Workplace Law Report
-URL  http://news.bna.com/wpln
-Host news.bna.com
-
-Title  World Climate Change Report
-URL  http://news.bna.com/clln
-Host news.bna.com
-
-Title  World Communications Regulation Report
-URL  http://news.bna.com/wron
-Host news.bna.com
-
-Title  World Data Protection Report
-URL  http://news.bna.com/wdpn
-Host news.bna.com
-
-Title  World Intellectual Property Report
-URL  http://news.bna.com/wiln
-Host news.bna.com
-
-Title  World Securities Law Report
-URL  http://news.bna.com/wson
-Host news.bna.com
-
-Title  WTO Reporter
-URL  http://news.bna.com/wtln
-Host news.bna.com
 
 # Many sites use dx.doi.org when linking from one database to another.
 # Useful Utilities recommends leaving this definition in your configuration
