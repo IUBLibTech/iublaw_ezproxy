@@ -199,16 +199,6 @@ HJ http://www.elr.info
 HJ www.elr.info/
 DJ	elr.info
 
-Title	Foreign Law Guide
-URL	http://foreignlawguide.com/ip
-DJ	foreignlawguide.com
-
-
-Title	Hein Online English Reports, Full Reprint (1220-1865)
-URL	http://heinonline.org/HOL/Index?collection=engrep&set_as_cursor=clear
-D	heinonline.org
-
-
 Title	Index to Legal Periodicals and Books (H.W. Wilson)
 URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpb
 D	ebscohost.com
@@ -565,10 +555,6 @@ URL       http://www.plnfpr.com
 D         plnfpr.com
 HJ        www.plnfpr.com
 
-
-Title	United States Treaties and Agreements Library
-URL	http://heinonline.org/HOL/Index?collection=ustreaties&set_as_cursor=clear
-D	heinonline.org
 
 # Updated per ralight 2023-06-14
 Title Vitallaw Premium (OCLC IncludeFile updated 20230612)
