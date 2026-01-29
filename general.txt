@@ -199,19 +199,7 @@ HJ http://www.elr.info
 HJ www.elr.info/
 DJ	elr.info
 
-Title	Index to Legal Periodicals and Books (H.W. Wilson)
-URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpb
-D	ebscohost.com
-
-Title 	Index to Legal Periodicals Retrospective: 1908 - 1980 (H.W. Wilson)
-URL	http://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=iulaw&profile=ehost&defaultdb=lpr
-D 	ebscohost.com
-
-### Updated to recommended stanza from OCLC Remove this one after 9/1/2016
-#Title 	IntelliConnect
-#URL   	http://intelliconnect.cch.com
-#DJ    	cch.com
-
+# Reviewed & confirmed to be latest OCLC stanza. ralight 2026-01-29
 # Updated per ralight 2023-07-20
 HTTPMethod DELETE
 ProxyHostnameEdit calculators.cch.com$ calculators-cch-com
@@ -240,6 +228,7 @@ DJ taxcomply.com
 DJ www.salestaxradar.com
 DJ wolterskluwer.com
 
+# Ruth's review notes: I think this should be removed, but B-LAW has 20 links using this syntax, and might be broken. Need to consult with them before removing. 2026-01-29
 HTTPMethod DELETE
 ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
 HTTPHeader X-GWT-*
@@ -259,9 +248,6 @@ MimeFilter application/json .* javascript
 Find http:\/\/
 Replace http://
 
-Title	Investor-State LawGuide
-URL	http://www.investorstatelawguide.com
-D	investorstatelawguide.com
 
 # Updated per ralight 2023-03-27
 # Resource previously called JustisOne
@@ -278,10 +264,6 @@ HJ justis.vlex.com
 HJ https://app.justis.com
 DJ vlex.com
 NeverProxy identity.vlex.com
-
-Title	Law360
-URL	http://www.law360.com
-D	law360.com
 
 Title ChinaLawInfo
 URL https://www.pkulaw.com
