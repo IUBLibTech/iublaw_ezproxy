@@ -152,9 +152,6 @@ HJ http://media.cq.com
 DJ cq.com
 Option Cookie
 
-Title  Corporate Practice Library
-URL  http://corplaw.bna.com
-
 
 # Updated per ralight 2023-10-03
 # This is the stanza for the Law Library  Ebook Central Account (indianasl)
