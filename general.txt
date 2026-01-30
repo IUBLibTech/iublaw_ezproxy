@@ -1,12 +1,6 @@
 ## Databases begin
 
-# Ruth's review notes: this redirects to law.com 2026-01-29
-Title	American Lawyer
-URL	http://www.americanlawyer.com
-D	americanlawyer.com
-
-
-# Reviewed & confirmed to be latest OCLC stanza by ralight 2026-01-29
+# Last reviewed by ralight 2026-01-29
 # Added per ralight 2021-06-17
 Title BNA (20170927)
 URL http://news.bna.com
@@ -106,13 +100,7 @@ DJ bnatax.com
 DJ taxnotes.com
 
 
-# Added per RAL 2019-06-17
-Title Bloomberg Environment
-URL https://news.bloombergenvironment.com
-HJ news.bloombergenvironment.com
-DJ bloombergenvironment.com
-DJ bloombergenvironment.com
-
+# Last reviewed by ralight 2026-01-30
 # Added per ralight 2021-06-17
 # neverproxy directive used to resolve issues with accessing ID/PW if link is proxied
 # stanza should be removed/replaced if IP/proxy authentication ever added for a Bloomberg Law resource
@@ -120,6 +108,7 @@ DJ bloombergenvironment.com
 Title Bloomberg Law
 NeverProxy www.bloomberglaw.com
 
+# Last reviewed by ralight 2026-01-30
 # Add per RAL 2018-10-18
 Title Bloomberg's Bankruptcy Law News
 URL https://news.bloomberglaw.com/bankruptcy-law
@@ -127,13 +116,14 @@ HJ news.bloomberglaw.com
 HJ bloomberglaw.com
 DJ bloomberglaw.com
 
+# Last reviewed by ralight 2026-01-30
 # Added per ralight 2023-07-13
 Title Civic Research Institute (Added 20220928)
 URL https://www.civicresearchinstitute.com
 HJ http://www.civicresearchinstitute.com
 DJ civicresearchinstitute.com
 
-
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2025-09-03
 # Stanza provided by OCLC support
 Option CookiePassThrough
@@ -152,7 +142,7 @@ HJ http://media.cq.com
 DJ cq.com
 Option Cookie
 
-
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2023-10-03
 # This is the stanza for the Law Library  Ebook Central Account (indianasl)
 Title Ebook Central SSO
@@ -165,7 +155,7 @@ NeverProxy ebookcentral.proquest.com
 NeverProxy indianasl.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
 
-# Ruth's review notes - will move to a common stanza if the stanza is updated in the future. 2026-01-29
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2023-10-03
 # Stanza exists to account for SSO for Wells campus-wide e-book purchases under library code iub-ebooks
 Title Ebook Central SSO (iub-ebooks)
@@ -178,7 +168,7 @@ NeverProxy ebookcentral.proquest.com
 NeverProxy iub-ebooks.ebookcentral.proquest.com
 NeverProxy acs.ebookcentral.proquest.com
 
-
+# Last reviewed by ralight 2026-01-30
 # Added per ralight 2022-03-07
 Title Elgaronline
 HTTPHeader -request -process X-Requested-With
@@ -192,6 +182,7 @@ HJ www.elgaronline.com
 DJ e-elgar.co.uk
 DJ elgaronline.com
 
+# Last reviewed by ralight 2026-01-30
 # Updated to https per ralight 2026-01-29
 Title	Environmental Law Reporter
 URL	https://www.elr.info/
@@ -199,7 +190,7 @@ HJ http://www.elr.info
 HJ www.elr.info/
 DJ	elr.info
 
-# Reviewed & confirmed to be latest OCLC stanza. ralight 2026-01-29
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2023-07-20
 HTTPMethod DELETE
 ProxyHostnameEdit calculators.cch.com$ calculators-cch-com
@@ -228,27 +219,7 @@ DJ taxcomply.com
 DJ www.salestaxradar.com
 DJ wolterskluwer.com
 
-# Ruth's review notes: I think this should be removed, but B-LAW has 20 links using this syntax, and might be broken. Need to consult with them before removing. 2026-01-29
-HTTPMethod DELETE
-ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
-HTTPHeader X-GWT-*
-HTTPHeader X-ApiKey
-HTTPHeader X-CPID
-Title Wolters Kluwer Cheetah (updated 20190524)
-URL http://www.wkcheetah.com
-HJ https://login.intelliconnect.cch.com
-HJ https://login.wolterskluwer.com
-HJ https://wkcheetah.com
-HJ https://www.wkcheetah.com
-HJ www.wkcheetah.com
-DJ wkcheetah.com
-DJ cch.com
-DJ wolterskluwer.com
-MimeFilter application/json .* javascript
-Find http:\/\/
-Replace http://
-
-
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2023-03-27
 # Resource previously called JustisOne
 Title vLex (updated 202001204)
@@ -265,6 +236,7 @@ HJ https://app.justis.com
 DJ vlex.com
 NeverProxy identity.vlex.com
 
+# Last reviewed by ralight 2026-01-30
 Title ChinaLawInfo
 URL https://www.pkulaw.com
 HJ www.pkulaw.com
@@ -273,84 +245,7 @@ HJ en.pkulaw.cn
 DJ pkulaw.com
 DJ en.pkulaw.cn
 
-Title	Leadership Library
-URL	http://lo.bvdep.com
-D	bvdep.com
-
-# Updated per ralight 2022-01-28
-PHE www.lexisnexis.com$ www-lexisnexis-com
-PHE www.nexis.com www-nexis-com
-Option CookiePassThrough
-Title Lexis Advance Quicklaw (updated 20220121)
-HTTPHeader -request -unrewrite X-LN-PreviousRequestId
-HTTPHeader -request -unrewrite X-RequestedWith
-HTTPHeader -request -unrewrite X-LN-CurrentRequestId
-HTTPHeader -request -unrewrite X-RE-Ref
-HTTPHeader -request -unrewrite X-UA-Compatible
-HTTPHeader -request -unrewrite X-LN-InstanceId
-HTTPHeader -request -unrewrite X-LN-PageMode
-HTTPHeader -request -process X-NewRelic-ID
-HTTPHeader -response -process X-LN-PreviousRequestId
-HTTPHeader -response -process X-RequestedWith
-HTTPHeader -response -process X-LN-CurrentRequestId
-HTTPHeader -response -process X-RE-Ref
-HTTPHeader -response -process X-UA-Compatible
-HTTPHeader -response -process X-LN-InstanceId
-HTTPHeader -response -process X-LN-PageMode
-HTTPHeader -response -process X-AspNetMvc-Version
-URL http://lexisadvancequicklaw.ca/
-HJ lexisadvancequicklaw.ca
-DJ lexisadvancequicklaw.ca
-DJ lexis-nexis.com
-DJ lexisnexis.com
-HJ academic.lexisnexis.eu
-HJ academic.lexisnexis.nl
-HJ api.lexisnexis.eu
-DJ lexisnexis.eu
-DJ lexis.com
-DJ lexiscn.com
-DJ cispubs.com
-DJ nexis.com
-DJ lexis-nexis.com
-HJ https://www.lexisnexis.com
-HJ web.lexis-nexis.com
-HJ web.lexisnexis.com
-HJ widgetserver.lexisnexis.nl
-HJ www.lexis-nexis.com
-HJ www.lexisnexis.com
-HJ https://www.lexisnexis.com
-HJ https://www.nexis.com
-HJ https://academic.lexisnexis.nl
-HJ www.lexis.com
-HJ www.lexiscn.com
-HJ w3.lexis.com
-HJ w3.nexis.com
-HJ https://w3.nexis.com
-HJ www.nexis.com
-HJ nexis.com
-HJ companydashboard.lexisnexis.nl
-Find location.hostname
-Replace location.host
-Find = "www.lexisnexis.com"
-Replace = "^pwww.lexisnexis.com^"
-Find &unix=http://
-Replace &unix=http://^A
-Find GetCookie("LNAUTH")
-Replace "LNAUTH-IP"
-Find NAME="_PRIORREFERER" VALUE="http://
-Replace NAME="_PRIORREFERER" VALUE="http://^A
-Find NAME="_PRIORREFERER" VALUE="https://
-Replace NAME="_PRIORREFERER" VALUE="https://^A
-Find "www.nexis.com"
-Replace "^pwww.nexis.com^"
-Find window.location.replace(redirURL)
-Replace
-Find mq.set("rt", "https://
-Replace mq.set("rt", "https://^A
-Find mq.set("rt", "http://
-Replace mq.set("rt", "http://^A
-Option Cookie
-
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2022-01-26
 # Formerly called Lexis Securities Mosaic
 Title Intelligize
@@ -364,147 +259,23 @@ HJ www.knowledgemosaic.com
 DJ lexissecuritiesmosaic.com
 DJ knowledgemosaic.com
 
+# Last reviewed by ralight 2026-01-30
 # Added per aaahlbra 2021-08-12
 Title LegiStorm
 URL https://www.legistorm.com
 HJ www.legistorm.com
 DJ legistorm.com
 
-# Updated per ralight 2023-11-01
-Title LexisNexis (updated 20231031)
-HTTPMethod PATCH
-HTTPHeader -request -process x-ln-currentrequestid
-HTTPHeader -request -process X-LN-PageMode
-HTTPHeader -request -process x-ln-previousrequestid
-URL http://www.lexisnexis.com/hottopics/lnacademic
-DJ lexis-nexis.com
-DJ lexisnexis.com
-HJ academic.lexisnexis.eu
-HJ academic.lexisnexis.nl
-HJ api.lexisnexis.eu
-DJ lexisnexis.eu
-DJ lexis.com
-DJ lexiscn.com
-DJ cispubs.com
-DJ nexis.com
-HJ www.lexisnexis.fr
-DJ lexisnexis.fr
-DJ lexis-nexis.com
-DJ plus.lexis.com
-HJ https://dniaeeyvroj2l.cloudfront.net
-HJ https://plus.lexis.com
-HJ https://www.lexisnexis.com
-HJ https://web.lexisnexis.com
-HJ web.lexis-nexis.com
-HJ web.lexisnexis.com
-HJ widgetserver.lexisnexis.nl
-HJ www.lexis-nexis.com
-HJ www.lexisnexis.com
-HJ https://www.lexisnexis.com
-HJ https://www.nexis.com
-HJ https://academic.lexisnexis.nl
-HJ advance.lexis.com
-HJ https://advance.lexis.com
-HJ www.lexis.com
-HJ www.lexiscn.com
-HJ w3.lexis.com
-HJ w3.nexis.com
-HJ https://w3.nexis.com
-HJ www.nexis.com
-HJ nexis.com
-HJ https://www.nexisuni.com
-HJ www.nexisuni.com
-HJ nexisuni.com
-HJ https://nexisuni.com
-DJ nexisuni.com
-HJ https://companydashboard.lexisnexis.nl
-HJ companydashboard.lexisnexis.nl
-HJ https://www.mylexisnexis.co.za
-HJ https://mylexisnexis.co.za
-HJ www.mylexisnexis.co.za
-DJ mylexisnexis.co.za
-HJ https://www.lexisnexis.co.za
-HJ https://lexisnexis.co.za
-HJ www.lexisnexis.co.za
-HJ lexisnexis.co.za
-DJ lexisnexis.co.za
-Find location.hostname
-Replace location.host
-Find = "www.lexisnexis.com"
-Replace = "^pwww.lexisnexis.com^"
-Find &unix=http://
-Replace &unix=http://^A
-Find GetCookie("LNAUTH")
-Replace "LNAUTH-IP"
-Find NAME="_PRIORREFERER" VALUE="http://
-Replace NAME="_PRIORREFERER" VALUE="http://^A
-Find NAME="_PRIORREFERER" VALUE="https://
-Replace NAME="_PRIORREFERER" VALUE="https://^A
-Find "www.nexis.com"
-Replace "^pwww.nexis.com^"
-Find window.location.replace(redirURL)
-Replace
-Find mq.set("rt", "https://
-Replace mq.set("rt", "https://^A
-Find mq.set("rt", "http://
-Replace mq.set("rt", "http://^A
-Find if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1)
-Replace if(forwardTo.indexOf("lexis.com") != -1 || forwardTo.indexOf("nexis.com") != -1 || forwardTo.indexOf("csint") != -1 || forwardTo.indexOf("lexis-com") != -1 || forwardTo.indexOf("nexis-com") != -1)
-Option Cookie
-AnonymousURL -*
+# Last reviewed by ralight 2026-01-30
+# Moved to common stanzas: lexisnexis.txt 
 
+# Last reviewed by ralight 2026-01-30
 # Modified per RAL 2020-07-02
 # Brief stanza to avoid needhost errors for a SSO/SAML authenticated resource
 Title LexisNexis Digital Library
 NeverProxy https://lexisdl.com/welcome/login/maurer
 
-Title   Mosaic
-URL     http://www.knowledgemosaic.com
-D       knowledgemosaic.com
-
-Title	National Law Journal
-URL	http://www.nlj.com
-D	nlj.com
-
-Title netLibrary
-URL http://www.netlibrary.com
-Domain netlibrary.com
-
-Title	Newspaper ARCHIVES
-URL	http://www.accessnewspaperarchive.com
-D	accessnewspaperarchive.com
-
-Title	Constitutions of the World
-URL	http://www.oceanalaw.com
-D	oceanalaw.com
-
-
-Title   Oxford Journals
-URL	http://jleo.oupjournals.org/ 
-D	oupjournals.org
-DJ	oupjournals.org
-HJ	oupjournals.org
-
-Title   Oxford Journals
-URL	http://jleo.oxfordjournals.org.ezproxy.lib.indiana.edu
-D	oxfordjournals.org.ezproxy.lib.indiana.edu
-DJ	oxfordjournals.org.ezproxy.lib.indiana.edu
-HJ	oxfordjournals.org.ezproxy.lib.indiana.edu
-
-
-Title	Oxford journal -- Yearbook of European law
-URL	http://yel.oxfordjournals.org.ezproxy.lib.indiana.edu
-D	oxfordjournals.org.ezproxy.lib.indiana.edu
-DJ	oxfordjournals.org.ezproxy.lib.indiana.edu
-HJ	oxfordjournals.org.ezproxy.lib.indiana.edu
-
-
-Title	Oxford journal -- Yearbook of European law.
-URL	http://yel.oxfordjournals.org
-D	oxfordjournals.org
-DJ	oxfordjournals.org
-HJ	oxfordjournals.org
-
+# Last reviewed by ralight 2026-01-30
 # Added per ralight 2024-06-12
 AnonymousURL +https://oup.silverchair-cdn.com/
 Title Oxford Academic (formerly Oxford Journals) (updated 20230106)
@@ -524,18 +295,6 @@ AnonymousURL -*
 NeverProxy oup3-idp.sams-sigma.com
 NeverProxy oup2-idp.sams-sigma.com
 NeverProxy oup-idp.sams-sigma.com
-
-
-Title 	Parry & Grant Encyclopaedic Dictionary of International Law 3rd
-URL	http://www.oxford-internationallaw.com 
-D	oxford-internationallaw.com 
-HJ	www.oxford-internationallaw.com 
-
-
-Title     Public Lands News
-URL       http://www.plnfpr.com
-D         plnfpr.com
-HJ        www.plnfpr.com
 
 
 # Updated per ralight 2023-06-14
@@ -563,12 +322,18 @@ DJ vitallaw.com
 Find http:\/\/
 Replace http://
 
-Title	Westlaw China
-URL	http://westlawchina.com
-D	westlawchina.com
-DJ	westlawchina.com
-HJ	westlawchina.com
+# Last reviewed by ralight 2026-01-30
+# Updated per ralight 2026-01-30
+Option DomainCookieOnly
+Title Westlaw China (Updated 20181011)
+URL http://app.westlawchina.com/maf/china/app/authentication/signon
+HJ app.westlawchina.com
+HJ www.westlawchina.com
+HJ cn.westlawchina.com
+DJ westlawchina.com
+Option Cookie
 
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2021-10-28
 Option DomainCookieOnly
 Title Westlaw (updated 20211026)
@@ -609,18 +374,8 @@ DJ westlaw.ie
 DJ westlawchile.cl
 Option Cookie
 
-
-Title  Wilson
-URL    http://vnweb.hwwilsonweb.com/hww/jumpstart.jhtml
-DJ     hwwilson.com
-HJ      relayweb.hwwilsonweb.com
-
-
-# Many sites use dx.doi.org when linking from one database to another.
-# Useful Utilities recommends leaving this definition in your configuration
-# file.  The special -hide option prevents this from showing up in your
-# database menu
-# Updated per RAL 2019-11-19
+# Last reviewed by ralight 2026-01-30
+# Updated by ralight 2026-01-30
 Title DOI System
 URL http://doi.org
 Host https://doi.org
@@ -628,88 +383,7 @@ Host dx.doi.org
 Host https://dx.doi.org
 Domain doi.org
 
-#Title AP Photo Archive
-#URL http://accuweather.ap.org
-#DJ ap.org
-#DJ accuweather.com
-#Find imgs = "http://" +
-#Replace imgs = "http://^paccuweather.ap.org^" + entry.data["LOCATIONMICRO"]; ezproxyignore =
-
-## In the following, the Books24x7Site is your site identifier as provided
-## by Books24x7.com and TokenSignatureKey is likewise provided by Book24x7.com
-## The TokenKey is some string that you pick.  You should NOT tell anyone
-## what your TokenKey is.
-#Title Book24x7.com
-#URL http://library.books24x7.com/library.asp?^B
-#Books24x7Site ABC123
-#TokenSignatureKey YouGetThisFromBooks24x7
-#TokenKey SomethingYouPickAndDontTellAnyone
-#DJ books24x7.com
-
-#Title CSA Illumina
-#URL http://www.csa.com
-#Host www.csa2.com
-#DJ csa.com
-#DJ csa2.com
-
-#Title  EBSCO Databases
-#URL    http://search.epnet.com
-#DJ     epnet.com
-
-#Title  Encyclopedia Britannica
-#URL    http://search.eb.com
-#Domain eb.com
-#Domain britannica.com
-
-#Title  FirstSearch
-#URL    http://firstsearch.oclc.org/FSIP
-#Domain oclc.org
-
-#Title Lexis-Nexis
-#URL http://web.lexis-nexis.com
-#DJ lexis-nexis.com
-#DJ lexisnexis.com
-#DJ lexis.com
-#DJ cispubs.com
-#HJ web.lexis-nexis.com
-#HJ web.lexisnexis.com
-#HJ www.lexis-nexis.com
-#HJ www.lexisnexis.com
-#Find GetCookie("LNAUTH")
-#Replace "LNAUTH-IP"
-#Find NAME="_PRIORREFERER" VALUE="http://
-#Replace NAME="_PRIORREFERER" VALUE="http://^A
-
-#Title  Newsbank Newsfile
-#URL    http://infoweb.newsbank.com
-#Domain newsbank.com
-
-#Title  ProQuest
-#URL    http://www.umi.com/pqdauto
-#DJ     proquest.com
-#DJ     umi.com
-
-T Rheumatologist
-U http://www.the-rheumatologist.org/view/index.html
-H www.the-rheumatologist.org
-
-## If you use this definition, be sure to change (yourid) to your
-## institution's identifier
-
-
-## If you try SilverPlatter, be sure to complete the URL as appropriate
-#Title  SilverPlatter
-#URL    http://webspirs.silverplatter.com
-#Domain silverplatter.com
-
-#Title  SIRS
-#URL    http://researcher.sirs.com
-#Domain sirs.com
-
-Title ICLR (Incorporated Council of Law Reporting)
-URL http://cases.iclr.co.uk/sub/gateway.dll?f=templates&fn=default.htm
-Host cases.iclr.co.uk
-
+# Last reviewed by ralight 2026-01-30
 # Updated per ralight 2022-01-13
 T West Academic Study Aids
 U https://subscription.westacademic.com
@@ -721,6 +395,7 @@ H http://images.westacademic.com
 DJ westacademic.com
 NeverProxy play.westacademic.com
 
+# Last reviewed by ralight 2026-01-30
 # added per CWL 10-24-23
 Title TRACfed
 URL https://trac.syr.edu/
