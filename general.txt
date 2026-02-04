@@ -374,14 +374,7 @@ DJ westlaw.ie
 DJ westlawchile.cl
 Option Cookie
 
-# Last reviewed by ralight 2026-01-30
-# Updated by ralight 2026-01-30
-Title DOI System
-URL http://doi.org
-Host https://doi.org
-Host dx.doi.org
-Host https://dx.doi.org
-Domain doi.org
+# DOI system moved to common stanza
 
 # Last reviewed by ralight 2026-01-30
 # Updated per ralight 2022-01-13
