@@ -2,31 +2,28 @@
 
 INCLUDEFILE ../common_stanzas/aacrjournals.txt
 
-# Last reviwed by ralight 2026-01-30
 # Does not support IPv6, moved to Require Authentication
-# Updated per ralight 2025-06-17
-AnonymousURL -OPTIONS +https://grackle.law.com/graphql
-AnonymousURL +https://geoip.alm.com/*
-Title Law.com
-Find www.law.com
-Replace ^Swww.law.com^
-Find store.law.com
-Replace ^Sstore.law.com^
+# Updated per ralight 2026-07-10
+AnonymousURL -OPTIONS +https://grackle.law.com*
+Title LAW (updated 20260706)
+HTTPHeader -request -inject X-LAW-EZPROXY "true"
 URL https://www.law.com
-DJ law.com
-DJ *.law.com
-DJ alm.com
+HJ https://b.law.com
+HJ b.law.com 
+HJ https://www.law.com 
+HJ www.law.com 
+HJ dictionary.law.com 
+HJ store.law.com 
+HJ mediakit.alm.com 
+HJ grackle.law.com 
+HJ https://geoip.alm.com 
+DJ law.com 
+DJ alm.com 
+DJ .law.com 
 DJ grackle.law.com
-HJ https://www.law.com
-HJ www.law.com
-HJ dictionary.law.com
-HJ store.law.com
-HJ mediakit.alm.com
-HJ grackle.law.com
-HJ https://geoip.alm.com
-NeverProxy *.cloudfront.net
-NeverProxy images.law.com
-NeverProxy cdnjs.cloudflare.com
-Find </body>
-Replace <script>document.addEventListener("DOMContentLoaded", function() {document.querySelectorAll('a[target="_self"]').forEach(link => { link.setAttribute('target', '_blank'); });});</script></body>
+Find www.law.com 
+Replace ^Swww.law.com^ 
+Find store.law.com 
+Replace ^Sstore.law.com^ 
 AnonymousURL -*
+NeverProxy images.law.com 
