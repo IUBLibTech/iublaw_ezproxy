@@ -1,5 +1,13 @@
 ## Databases begin
 
+# Added per cwlamb 2026-09-29
+# Trial access through 2026-10-20
+Title Chinese Law Data Online
+URL https://www.lawdata.com.tw
+HJ www.lawdata.com.tw
+HJ lawdata.com.tw
+DJ lawdata.com.tw
+
 # Last reviewed by ralight 2026-01-29
 # Added per ralight 2021-06-17
 Title BNA (20170927)
